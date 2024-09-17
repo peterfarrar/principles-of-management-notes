@@ -50,7 +50,7 @@ Interact with substantial number of people
 * Conduct hiring and performance interviews
 * Form allianced/griendships/personal relationships
 
-`Figurehead role` Ceremonial duties  
+`Figurehead role`, aka Ceremonial duties  
 12% contact time on ceremonial  
 17% incomming mail related with their status  
 Responsible for the work of their people  
@@ -125,3 +125,42 @@ Managers spend a good amount of their time as a negotiator. These might be short
 
 ## 1.3 Major Characteristics of the Manager's Job
 ### What are the characteristics tht effective managers display?
+Managers never have enough time.  
+Modern managers have more reports than in the past. Having 20-30 direct reports is not uncommon.  
+
+#### Managerial Responsibilities
+Different managers engage in some (not all) of the following:  
+1. Long range planning
+1. Controlling
+1. Environmental scanning
+1. Supervision
+1. Coordination
+1. Customer relations and marketing
+1. Community relations
+1. Internal consulting
+1. Monitoring products and services
+
+#### Manager by level
+Executive
+> Conceptual skills  
+Organize and analyze information  
+improve organizational performance  
+Big picture and understanding of the parts  
+Coordinate departments and divisions  
+
+Middle  
+> Human relations skills  
+Work with others  
+Understand motivation and group processes  
+Become involved with group  
+Lead  
+
+First Line  
+> Technical Skills  
+Use tools, procedures of specific to their areas  
+
+All need the above skills but in different degrees  
+Executive managers are light on technical and heavy on conceptual.  
+Middle managers have more technical, and less conceptual.  
+First-line manageres hare heavy on technical and light on conceptual.  
+All managers need human resource skills.  

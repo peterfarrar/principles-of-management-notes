@@ -50,7 +50,7 @@ Interact with substantial number of people
 * Conduct hiring and performance interviews
 * Form allianced/griendships/personal relationships
 
-`Figurehead role`, aka Ceremonial duties  
+**Figurehead role**, aka Ceremonial duties  
 12% contact time on ceremonial  
 17% incomming mail related with their status  
 Responsible for the work of their people  
@@ -81,12 +81,12 @@ Responsible for making decisions for organization and stakeholders.
 Make decisions with inadequate information, ambiguous circumstances.  
 Interpersonal and information roles will assist in difficult decisions.  
 Outcomes may not be clear or may appear conflicting.  
-`entrepreneur` managers seek to improve their businesses. Adapt to change. react to opportunites. adapt to market conditions.  
+**entrepreneur** managers seek to improve their businesses. Adapt to change. react to opportunites. adapt to market conditions.  
 Long term view includes need to reinvent themselves, product, service lines, marketing strategies.  
 Ways of doing buisness can become obsolete.  
-`disturbance or crisis handler` must involuntarily react to conditinos. Crises can arise because of bad decisions/mgmt, or becuase of unanticipated changes. Reactive.  
-`resource allocator` managers make decision aout what, how much, when and why resources are allocated. Funding, equiptment, human labor, office/production space, time are limited.  
-`negotiator` Managers spend significant amout of time in negotiations: budget allocation, loabor, collective bargening agreements, formal dispute resolutions.  
+**disturbance or crisis handler** must involuntarily react to conditinos. Crises can arise because of bad decisions/mgmt, or becuase of unanticipated changes. Reactive.  
+**resource allocator** managers make decision aout what, how much, when and why resources are allocated. Funding, equiptment, human labor, office/production space, time are limited.  
+**negotiator** Managers spend significant amout of time in negotiations: budget allocation, loabor, collective bargening agreements, formal dispute resolutions.  
 Dosens of weekly decicions result from breif negotionations between and amoung employuees, custoemr, clients, suppliers, others.  
 
 

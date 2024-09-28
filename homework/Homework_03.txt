@@ -23,7 +23,11 @@ Terminal values include security, happiness, passion, friendship.
 
 5. Can an individual be ethical without using ethical principles described in the chapter? Explain.
 
+Yes.
 
+"Ethical comes from the Greek ethos "moral character" and describes a person or behavior as right in the moral sense - truthful, fair, and honest." - www.vocabulary.com 
+
+There is the notion that most people don't actually conciously recognize what their values are or where they came from. Values are derived from the environment in which one is raised. This can include role-models like parents, teachers, religious figures; It can include teachings from philosophers like Plato, authors like J.K. Rawlings and J.R.R. Tolkien, television and movie charecters, politicians; They can be learned through interactions with peers, adults, extended family, and many more. Although the text identifies self-awareness, awareness of their ethical values, as essencial to being able to think through alternative decisions and recognize the possible outcomes, good and bad, I believe (using the definition above) that an individual can be ethical without a deeper understanding of their ethical values.
 
 
 6. Identify major classical ethical principles.
@@ -38,12 +42,23 @@ Terminal values include security, happiness, passion, friendship.
 
 
 7. Differentiate between the principle of rights and utilitarianism and between justice and universalism.
+The principle of rights differs greatly at least at first glance. While Utilitarianism can justify any action that leads to the best outcome for the most stakeholders, the principles of rights are spelled out in a moral context. There are laws, and their are moral values that are based on social norms. On the face of it these lay out the basis of behaviors used to achieve outcomes. However, there is an element of vagueness that could skew the guiding values. Who is deciding what norms are? How are they being interpreted? The person claiming moral high ground may have no morals at all.
+
+The principles of Justice and Universalism both value fairness, and avoiding harm to those effected by the decision being made. While Universalism is concerned with individual needs and values, Justice values the social equality of all individuals. Justice seeks to bring equity to the group, using compensation and punishment where needed. Much like the principal of Rights, there is some question about who defines values like right and wrong, what is harmful, who determines punishments and compensations.
 
 
 8. Why is leadership important for ethical conduct in corporations?
 
+Leaders establish the organizations mission, values, and vision. Typically the leaders own values become the organization's values. Setting these values and being authentic in holding and modeling these values will impact worker satisfaction and productivity, and be integral at aligning employees for the common goals of the organization.
+
 
 9. Identify two types of ethical leaders and the important role each plays.
+
+Two types of ethical leadership styles are Stewardhip and Servant leadership.
+
+Stewardship is caring about and empowering people. It is considering the impact of decisions on the greater community and decentralizing the decision making process to give say to all shareholders across the organization.  
+
+Servant leadership is like stewardship, but more passionately committed to the cause. Servant leaders don't need to take credit for successes. They are able to inspire others to serve as well. A servant leader will have a possitive impact on their community and the individuals within.  
 
 
 10. What is the difference between ethics and compliance in organizations?
@@ -55,4 +70,5 @@ Terminal values include security, happiness, passion, friendship.
 12. What is stakeholder management?
 
 
-
+Footnotes:
+1. Vocabulary.com, Ethical - Definition, Meaning & Synonyms | Vocabulary.com, IXL Learnin, 09/27/2024, https://www.vocabulary.com/dictionary/ethical#:~:text=Ethical%20comes%20from%20the%20Greek,moral%20standards%20of%20their%20profession.

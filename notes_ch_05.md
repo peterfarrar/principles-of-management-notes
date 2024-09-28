@@ -105,14 +105,14 @@ Also, the "World’s Most Ethical Companies."
 
 Limitations:  
 1. It can be used to disguise and manipulate selfish and unjust political interests.  
-2. It is difficult to determine who deserves what when both parties are “right.”  
+2. It is difficult to determine who deserves what when both parties are "right."  
 3. Individuals can exaggerate certain entitlements at the expense of others.  
 
 ### Justice: Procedures, Compensation, and Retribution
 Four major components
 1. All individuals should be treated equally.  
-2. Justice is served when all persons have equal opportunities and advantages (through their positions and offices) to society'.'s oportunities and burdens  
-3. Fair decision practices, procedures, and agreements amont parites should be practiced  
+2. Justice is served when all persons have equal opportunities and advantages (through their positions and offices) to society's oportunities and burdens  
+3. Fair decision practices, procedures, and agreements among parites should be practiced  
 4. Punishment is served to someon who has inflicted harm on another, and comnensation is given to those for a past harm or injustice commited against them.  
 
 Questions to ask when weighing a decision:  
@@ -127,5 +127,106 @@ Limitations:
 * Who decides who has been harmed?
 * Who has the moral authority to punish or pay and to whom?  
 
-### Virtual Ethics: Character-Based Virtues
+### Virtue Ethics: Character-Based Virtues
+"**Virtue ethics** is based on character traits such as being truthful, practical wisdom, happiness, flourishing, and well-being"  
+Focus in on who we should be, not the actions we should take.  
+Altruism.  
+Virtue often requires practical wisdom.  
+Related to Universalism.  
+Before acting ask yourself, "What would my best self do?" or perhaps, "What would my grandmother think of this choice?"  
+
+Limitation:  
+Who defines "virtuous?"  
+
+### The Common Good
+"the sum of those conditions of social life which allow social groups and their individual members relatively thorough and ready access to their own fulfillment."  
+Considering the impact of a decision on the overall community, culture, environments.  
+
+Limitation:
+Who defines what is "good" for the social, phisical, cultural environment?  
+
+### Ethical Relativism: A Self-Interest Approach
+Frequently used, but not a true ethical principle. Only one's own morals should be used to judge the individual.  
+
+Limitations:  
+* One is typically blind to ones biases, misinformation, flaws.  
+* Leads to absolutism, facism, dictatorships.  
+* Allows for abuse of large numbers of the population.  
+
+
+Principles and values in the work place offer employees stability and direction, and impact job performance and satisfaction. Leadership can use principles and values to influence the culture and motivate and inspire workers.  
+
+1. What are some ethical guidelines individuals and organizations can use to make ethical choices?  
+Define principles and values within the organization.  
+
+2. Can being aware of the actual values you use to guide your actions make a difference in your choices?  
+Yes. Being aware of the values you use allows you to more honestly weigh the options and outcomes, and make better, more informed decisions.  
+
+## 5.4 Leadership: Ethics at the Organizational Level
+Why is ethical leadership important in organizations?  
+
+Organizational leaders set vision, mission, and values that facilitate identifying and implementing strategic and operational alignment within the organization.  
+"Leadership is defined as the ability to influence followers to achieve common goals through shared purposes"  
+A leaders values generally become the organizations values. They should align with the vision and mission of the organization.  
+
+**Ethisphere** is a private firm evaluating firms' ethical behavior and responsibilities. It uses five criteria:  
+1. Evaluates the thics and compliance program.  
+2. The extent to which ethics are embedded in it's culture.  
+3. Corporate citizenship and responcibility, including environmental impact.  
+4. Governance: Whether the CEO also the board chair, and how diverse the board is.  
+5. Leadership, Inovation, Reputation.  
+
+### Show Respect for Others
+Recognize the worth of others. Treat people as and end in themselves, not as a means. Value people for who they are. Tolerate differences, allow free and independent thought, and persute of personal goals.  
+
+### Treat All Stakeholders Fairly
+Ethical leaders treat everyone fairly, justly, equaly. Favoritism creates winners and losers and breeds resentment, with exception for when an individual warents special treatment in order to have a just outcome.  
+To revent winners and losers emerging, everyone must receive equal opportunities, according to their needs, rights, effort, societal contributions, and performance.  
+
+### Work Towards a Common Good
+Ethical leaders strive towards a **common good**, something **altruistic** that benefits a greater community, and servers the needs of others.  
+Mentoring, empowering and encouraging others, team building, showing concern for the welfare of others, are examples of how to behave in an altruistic manor.  
+
+### Build Community
+Ethical leaders do not impose their will on others. They lead by example, work with charities and other organizations and individuals to further their ethical vision. In so doing they can inspire others to work with them for the common goal, noone putting their needs ahead of the common purpose.  
+
+### Be Honest
+Honesty requires leaders to be as open as possible. This doesn't mean to tell everything, as that may not lead to a positive outcome. Leaders need to be sensitive to the situation, to the feelings and views and beliefs of others.  
+Being transparent (to a point) with stakeholders and shareholders improves trust and protects the organization's reputation.  
+
+### Stewardship and Servant Leadership Styles
+**Stewardship**: Empower people to make decsisions.  
+Lead without dominating. Care about the followers. Help them succeed individualy as well as professionally.  
+Decentralized decision making. All stakeholders have power to effect the organization and it's goals.  
+
+**Servant leadership**: Selfless work with others to achive shared goals that improve the collective welfare. It is the brainchild of Robert K. Greenleaf.  
+These are leaders that devote themselves to the greater cause. They are guided by their concience, their moral sense of right and wrong.  
+1. Place service before self-interest.  
+2. Listen to others.  
+3. Inspire through trust.  
+4. Work towards feasible goals.  
+5. Help others whenever possible.  
+
+## Dark Side of Organizational Leadership
+Seven symptons of the failure of ethical leadership:
+1. Ethical blindness. Unable to perseive ethical issues.  
+2. Ethcal muteness: Do not use ethical language or have ethical principals.  
+3. Ethical incoherence: Unaware of inconsistancies between their words and their behaviors.  
+4. Ethical paralysis: Unable to act on their values. Frozen by fear of consequences or simply by lack of knowledge (ignorance).  
+5. Ethical hypocrisy: Not actually committed to the stated values. Selfishly deligate based on what they don't want or know how to do.  
+6. Ethical schizophrenia: The values they claim in the workplace conflict with the values they display outside of the workplace.  
+7. Ethical complacency: Belief that they can do no wrong. "When the president does it, then it's not illegal." - Richard Nixon.  
+
+Ethical leadership and organizational culture counts!  
+Check out [Fortune’s "“"World’s 19 Most Disappointing Leaders."](https://finance.yahoo.com/news/world-19-most-disappointing-leaders-130011572.html).  
+
+1. What role does leadership play in how ethically organizations and its members act and perform?  
+Leaders set the tone from the top down. A leader is a role-model. Ethical behavior will set the ethical values of the organization's culture.  
+
+2. Explain what stewardship is and the role of servant leadership.  
+Stewardship is caring about and empowering people. It is considering the impact of decisions on the greater community and decentralizing the decision making process to give say to all shareholders across the organization.  
+Servant leadership is like stewardship, but more passionately committed to the cause. Servant leaders don't need to take credit for successes. They are able to inspire others to serve as well. A servant leader will have a possitive impact on their community and the individuals within.  
+
+## 5.5 Ethics, Corporate Culture, and Compliance
+What are the differences between values-based ethics and compliance in organizations?  
 

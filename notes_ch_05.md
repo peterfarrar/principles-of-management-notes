@@ -230,3 +230,79 @@ Servant leadership is like stewardship, but more passionately committed to the c
 ## 5.5 Ethics, Corporate Culture, and Compliance
 What are the differences between values-based ethics and compliance in organizations?  
 
+Culture is defined by shared values of members, as articulated and practiced by leadership.  
+Culture impacts most aspects of an organization internally (strategy, structure, poeple, systems) as well as many aspects externally (reputation, supply lines, marketing).  
+Culture is transmitted by:
+1. The values and styles that leaders espouse and practice.  
+2. The heroes and heroines that the company rewards and holds up as examples.  
+3. The rites and symbols that organizations value.  
+4. The way that organizational executives and members communicate amung themselves and with teir stakeholders.  
+
+Culture can account for 20-30% of the difference in performance, compared to unremarkable competitors.  
+Culture is based in values. Values model and communicate compliance standards.  
+* Culture sets assumptions and norms, determining how things get done.  
+* Culture helps to identify areas in the business (units, functions, roles) that hold negative perceptions, perhaps feel unwanted preasure, or are unaware of available resources.  
+* Culture helps investores and other shareholders believe the company operates ethically.  
+* Employees are aware of the conduct, values, and communications of senior leaders.  
+* The company regularly surveys employees to get measure their engagement/commitment.  
+* Employees are less likely to respond to presures that require compremising on cultural values and are more likely to report misconduct.  
+* Employees can percive the ethical priorities of their coworkesr, the value of their organization and are willing to share in it.  
+
+### Compliance and Ethics
+Carrot and Stick, two necessary elements of an ethcial corporate culture.  
+Ethics are a values based approach to motivating apropriate behaviors within the organization.  
+Compliance is a rules based approach, backed up by consequences.  
+Both are neccessary to motivate proper, ethical and legal behavior within the organization.  
+
+Self-regulation by corporations is always necessary. Because real world events have demonstrated that that on it's own is not enough to prevent organizations from negatively impacting the larger society, governments implement compliance measures in the form of laws, to motivate apropriate behaviors.  
+
+1. In what ways do law and compliance complement ethics in organizations?  
+While corporate values motivate ethical behaviors, sometimes they are not enough. Compliance measures, internal to the organization, or excerted externally by government laws and regulations, motivate ethical behavior by corporations and the individuals that make them up.  
+
+2. How does stakeholder management differ from stockholder management?  
+Stakeholder management considers the needs of all stakeholders when making decisions and taking actions.  
+Stockholder management focuses on maximizing profits for the stockholders.  
+The two are not mutually exclusive, especially when considering long term viability and profitability of the corporation.  
+
+
+## 5.6 Corporate Social Responsibility
+What value do CSR (corporate social responsibility) programs offer to organizations and society?  
+
+**Corporate Social Responsibility** (CSR) is a belief that corporations, beyond merely a fiscal responcibility to their shareholders, corporations are part of, and have a role to play in, society and an obligation to make decisions with the best interest of society in mind.  
+
+**The 3 P's**: Profit, the people, and the planet.
+
+**The tripple bottom line** (TBL or 3BL): A measure of businesses accountability in supporting social, environmental, and financial benefits for the greater good.  
+
+CSR is unlikely to solve any significant sociocultural problems, but it does project an ethical culture to stakeholders. There is evidence that this can influence consumer behavior with regard to a companies brand.  
+Most executives and many analysts and industry experts believe that well managed CSR does increase a businesses profitability.  
+
+### Shareholder Management
+**Stakeholder management** is the belief that corporations should consider all the relationships that impact the companies performance, and that the companies actions impact.  
+
+### Identifying and Influencing Major Stakeholders
+1. Who are the stakeholders?
+2. What are their stakes?
+3. What do the supporters stand to gain and lose?
+4. What do the resisters stand to gain and lose?
+5. What type(s) of power do the supporters have?
+6. What type(s) of power do the resisters have?
+7. What strategies can we use to keep the support of the supporters?
+8. What strategies can we use to neutralize or win over the resisters?  
+
+This links to the [Coca Cola](https://www.coca-colacompany.com/stories/stakeholder-engagement) stakeholders approach.  
+
+Studies show CSR and stakeholder management ultimately lead to superior financial performance.  
+Companies considered "best corporate citizens" have better reputations and higher profitability.  
+
+1. How do sustainable business practices benefit consumers?  
+
+
+2. Differentiate the roles compliance and CSR programs serve in organizations. Are these the same, or are there differences? Explain.  
+Compliance is rules based, often from external sources like the government, and can carry stipulated penalties.  
+CSR is self-regulated, values based behavior. It's reward or pentalties are determined by the impact the organization has on it's stakeholders, and vice-versa.  
+
+
+## 5.7 Ethics around the Globe
+What are ethical issues we encounter in the global environment?
+

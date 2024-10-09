@@ -306,3 +306,80 @@ CSR is self-regulated, values based behavior. It's reward or pentalties are dete
 ## 5.7 Ethics around the Globe
 What are ethical issues we encounter in the global environment?
 
+Global organizations face challenges establishing ethical standards because different countries, cultures, and legal and political systems have different norms. Different market systems can also influence values. Corruption can create barriors to ethical behavior as well. For example in some countries payoffs and bribes may be the cultural norm and a cost of doing business, but for U.S. firms the Foreign Corrupt Practices Act (FCPA) forbids this behavior.  
+
+U.S. Firms are encouraged (how?) to add value to the countries they do business in.  Examples:  
+* Hiring local labor  
+* Creating new jobs  
+* Co-venturing with local entrepreneurs and companies  
+* Attracting local capital to projects  
+* Providing for and enhancing technology transfer  
+* Developing particular industry sectors  
+* Providing business learning and skills  
+* Increasing industrial output and productivity  
+* Helping decrease the country’s debt and improve its balance of payments and standard of living.  
+
+### Globalization
+**UN Global Compact** for business doing business in least developed countries:  
+1. Support and respect the protection of internationally proclaimed human rights  
+2. Ensure that they are not complicit in human rights abuses  
+3. Uphold the freedom of association and the effective recognition of the right to collective bargaining  
+4. Eliminate all forms of forced and compulsory labor  
+5. Abolish child labor  
+6. Eliminate the discrimination of employment and occupation  
+7. Support a precautionary approach to environmental challenges  
+8. Promote greater environmental responsibility through initiatives  
+9. Encourage the development and diffusion of environmentally friendly technologies  
+10. Work against corruption, including extortion and bribery  
+
+### MNEs Corporate Cultures
+Establishing ethical corporate culture abroad is challenging. Must recognize an respect local ethics and values, take a multicultural approach, and employ a diverse workforce.  
+**Hanna**'s five strategic questions for organizations doing business abroad.  
+1. “What do customers and stakeholders in our market expect from our organization? (Will their standard of living be raised? Will their cultural expectations be violated?)  
+2. What is our strategy to be successful in this competitive marketplace? (What can we realistically hope to achieve? What results are we willing to commit to?)  
+3. What are our governing values that define how we will work with stakeholders and with each other?  
+4. What organizational capabilities do we need in order to achieve these results?  
+5. What do our work processes, roles, and systems need to do so that we are consistent with all of the above?”  
+
+Answering these questions should help leaders balance corporate principals and value with local values.  
+Diversity and gender-balanced workforces are becoming part of corporate strategy. In part to reduce friction and abuse, and in part because it drives inovation and informs business transformations.  
+Characteristics of MNEs:  
+* Multicultural values  
+* Merit based status  
+* Openness to new ideas  
+* Excitement about new cultural environments  
+* Sensitive to cultural diffrences  
+Social audits can help companies identify their impact and make corrections when necessary.  
+
+1. What ways can and do some MNEs demonstrate social responsibility in foreign countries?  
+  Adherance to the UN Global Compact. Social Audits. Multicultural and gender-balaced staffing.  
+  
+2. What are some specific ethical business practices other countries (besides the United States) and regional governing bodies (such as the European Union) practice and demonstrate with regard to the environment and competition?  
+no idea  
+
+## 5.8 Emerging Trands in Thics, CSR, and Compliance
+Identify forecasts about contemporary ethical and corporate social responsibility issues.  
+
+1. #MeToo: People are speaking out about harassment and it is damaging to reputations. Create a corporate culture that encourages employees to speak up when they feel harassed and resolve conflicts as early as possible.  
+2. Glassdoor: Social media allows employees to report their take on the corporate environment and often differs from official statements. Culture should allow feedback internally, for the feedback to be taken seriously, and to be acted on.  
+3. Natural disasters: These can cause damage to buisinesses as well as people. Put a preparedness plan in place. Test communication systems and employee readiness.  
+4. Growth: Growth requires compliance and ethics programs to be in place.  
+5. Culture of Compliance: Integrity and ethics are better drivers than punitive measures. How leaders and top performers that break the rules are treated will set the tone for the rest of the orgnization.  
+6. Cyber Security: This requires an increased role of compliance based prevention and mitigation.  
+7. Whistle-Blowers: Corporations need to resolve issues before they are voiced outside the organization.  
+8. Culture and Free Speach: Manage polarizing issues within the organization, ensure fair treatment, protections, etc.  
+9. Data Privacy: Adjust business compliance as laws around data privacy arise.  
+10. New Networks: Evolve to account for new online networks.  
+
+Ethics and Compliance go hand in hand. Strong cultures create agreement of values amungst stakeholders.  
+
+### Moral Entrepreneur: A New Component of Ethical Leadership
+**Moral Entrepreneur**: A person, group, or organization that creates a new moral norm.  
+**Ethical Leadership**: Ethical leaders model and communicate "normatively appropriate conduct," suce as openness, honesty, fairness, thoughtfullness.  
+
+1.  What are some emerging national and global issues and trends in ethics and business ethics?  
+Multiculturalism, gender-balancing, cultural openness...  
+
+
+
+

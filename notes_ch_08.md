@@ -117,12 +117,14 @@ A threat to one organization can be an opportunity for another, or turned into a
 * Interest Rates
 * Exchange Rates
 * Price of Oil  
+
 Theses factors influence an organizations ability to hire quality talent and fund business ventures.  
 
 #### Sociocultural Factors
 * Demographic Trends
 * Consumer Preferences
 * Market Diversity
+* 
 Possibly the largest range of factors are sociocultural and its subcategories. Demographic trends includes gender, race, age, education, income, wealth...  
 Each demographic has it's own preferences.  
 
@@ -131,6 +133,7 @@ Each demographic has it's own preferences.
 * Smartphones
 * Connectivity
 * Automation
+
 Technological change has forced organizations to adapt or die. Consumer access to information is near ubiquitus.  
 Automation has changed the way busniesses and their suppliers, and customer, work together.  
 Data travels at the speed of light.  Businesses store and analyse huge amounts of data.  
@@ -140,12 +143,14 @@ And much more.
 * Resources
 * Recycling
 * Alternative Energy  
+
 Resource scarcity and climate change have termendous impact on business and overlap with sociocultural factors.  
 
 #### Legal Factors
 * Contracts
 * Laws
 * IP Rights
+
 Often overlaps with Political factors, but includes other legal factors that are not political.  
 
 Not all factors fit into one category. Many factors overlap multiple PESTEL categories of factors.  
@@ -153,7 +158,7 @@ Not all factors fit into one category. Many factors overlap multiple PESTEL cate
 1. Describe a firm’s macro environment.  
 A firms macro-environment are external factors that are generally outside of the organizations direct control. PESTEL is an acronym that helps to break these out into categories that can be analysed and interpreted to help an organization make decisions.  
 
-2. What does PESTEL stand for? How do managers use PESTEL to understand their firm’s macro environment?  
+1. What does PESTEL stand for? How do managers use PESTEL to understand their firm’s macro environment?  
 PESTEL is an acronym for external-environmental factors that are generally outside of an organizations direct control. PESTEL stand for Political, Economic, Sociocultural, Technological, Evnironmental, and Legal factors. Managers can use this distillation of factors to inform their decision-making. Unlike SWOT, PESTEL doesn't categorize factors as opportunities or threats, but simply acknowledges them as external factors to be interpreted by the organization. Not all factors fit into one category. Many factors overlap multiple PESTEL categories. A threat to one organization can be an opportunity for another, or turned into an opportunity instead of a threat.  
 
 ## 8.4 A Firm's Mocro Environment: Porter's Five Forces

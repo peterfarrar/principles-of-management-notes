@@ -99,7 +99,8 @@ Organizations have little direct control over their macro-environment.
 * **S**ociocultural factors
 * **T**echnological factors
 * **E**nvironmental factors
-* **L**egal factors
+* **L**egal factors  
+
 As with SWOT, different factors in PESTEL can overlap.  
 PESTEL doesn't categorize factors as opportunities or threats, but simply acknowledges them as external factors to be interpreted by the organization.  
 A threat to one organization can be an opportunity for another, or turned into an opportunity instead of a threat.  

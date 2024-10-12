@@ -1,11 +1,21 @@
 Homework #5 due 10/20/2024
+Chapter 8, Strategic Analysis: Understanding a Firm’s Competitive Environment
 Pg 274. 1-8
 
 1. Why do managers use strategic analysis?
+Strategic analysis is the process of studing one's competitive environment. Competitive environment is both external and internal to the organization.
+Studying the external environment allows managers to identify competitive factors. These can include identifying thier customer base and competition, trends, changes in financial factors like jobs numbers and interest rates, and the unexpected natural disaster, to name a few.
+Studying their internal environment can help them to structure their organzation for success. A business needs to organize itself structurally, financially, physically, as well as have the correct employee makeup. They should be ready to meet the demands of the current environment and be prepared to change as the external competitive environment changes.
 
 2. What information does a SWOT analysis provide managers? What information might it miss?
+A SWOT analysis provides the manager with an understanding of the elements of the organizations internal and external competitive environment. This can be used to modify the organizaiton's strucure and make up, and modify the organization's strategy to take advantage of the external environment.
+Internally, strengths identify what an organization is already good at, the weaknesses can identify what an organization should avoid, or where an it needs to change.
+Externally, opportunities identify what an organization can persue, threats can identify what to avoid, but also how to adapt strategy to create opportunites.
+SWOT analysis is not a perfect tool It is limited by the persons doing it. It will miss what those things that that person can not recognize or imagine.
+
 
 3. Describe a firm’s macro environment and how managers use PESTEL to understand it.
+PESTEL is an acronym for external-environmental factors that are generally outside of an organizations direct control. PESTEL stand for Political, Economic, Sociocultural, Technological, Evnironmental, and Legal factors. Managers can use this distillation of factors to inform their decision-making. Unlike SWOT, PESTEL doesn't categorize factors as opportunities or threats, but simply acknowledges them as external factors to be interpreted by the organization. Not all factors fit into one category. Many factors overlap multiple PESTEL categories. A threat to one organization can be an opportunity for another, or turned into an opportunity instead of a threat.
 
 4. What is a firm’s micro environment, and why is it important?
 

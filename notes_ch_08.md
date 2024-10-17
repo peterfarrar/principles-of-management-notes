@@ -124,7 +124,7 @@ Theses factors influence an organizations ability to hire quality talent and fun
 * Demographic Trends
 * Consumer Preferences
 * Market Diversity
-* 
+
 Possibly the largest range of factors are sociocultural and its subcategories. Demographic trends includes gender, race, age, education, income, wealth...  
 Each demographic has it's own preferences.  
 
@@ -161,6 +161,115 @@ A firms macro-environment are external factors that are generally outside of the
 1. What does PESTEL stand for? How do managers use PESTEL to understand their firm’s macro environment?  
 PESTEL is an acronym for external-environmental factors that are generally outside of an organizations direct control. PESTEL stand for Political, Economic, Sociocultural, Technological, Evnironmental, and Legal factors. Managers can use this distillation of factors to inform their decision-making. Unlike SWOT, PESTEL doesn't categorize factors as opportunities or threats, but simply acknowledges them as external factors to be interpreted by the organization. Not all factors fit into one category. Many factors overlap multiple PESTEL categories. A threat to one organization can be an opportunity for another, or turned into an opportunity instead of a threat.  
 
-## 8.4 A Firm's Mocro Environment: Porter's Five Forces
+## 8.4 A Firm's Micro Environment: Porter's Five Forces
 What makes up a firm’s external micro environment, and what tools do strategists use to understand it?  
 
+Micro Environment:  
+* Competitors
+* Intermediaries
+* Suppliers
+* Customer
+
+A firm must understand its micro-environment in order to be successfull. Firms are part of an **industry**. An industry is a group of firms making similar products or offering similar services. Although firms may not directly compete with eachother, they must understand their customers, suppliers, and industry.  
+Michael Porter developed **Porter's Five Forces** as a tool to examime groups within the micro-environment and understand its impact on the organization and industry.  
+
+|  |  |  |
+| ---  | ---  | --- |
+| | Threat of<br />New<br />Entrants |
+| Supplier<br />Power | Industry<br />Rivalry | Buyer<br>Power |
+| | Threat of<br />Substitutes | |
+
+Analysts determine how each force has a strong or weak impact on the firm.  
+
+### Industry Rivalry
+Strong rivalry reduces profit potential for all firms. Weak rivalries have fewer firms and either there are enough customers to sustain each firm, or each firm has specialized in a way to meat a portion of the customer bases' unique needs.  
+
+### The Threat of New Entrants
+Profitable markets attract new entrants, either new firms or firms from other industries expanding their offerings by entering new industries. This may be easier or harder based on the **Barriers to entry** (factors that impact a new firms ability to compete successfully). These include cost of entry (equiptment, etc.), regulations, brand loyalty.  
+
+### Threat of Substitutes
+A substitute is any product or service that can meet the same need for the customer. These are not rivals, but different products or services that can draw away customers.  
+
+## Supplier Power
+Supplieres that offer specialized products or control resources or part of a market, can have an upperhand over the firm. Examples include rare earth minerals, specialized computer chips. Suppliers of comodoties like wheat, oil, porkbellies, often have low power, as their are many rivals to choose from.  
+
+## Buyer Power
+"Buyer" in this context is the customer that purchases the firms goods or services. In This case the firm becomes the supplier. If the product or service is unique, they can command a higher price. If the goods and services provided are commonly available, then the firm will have to set competitive prices, and so has less power. Some firms use **switching costs** to penalize consumers if they chose to change supliers. The harder it is to change to the competitors offering, the more power the firm has.  
+
+1. Describe each of Porter’s Five Forces. What information does each provide a manager trying to understand her firm’s micro environment?  
+The  five forces are:
+* Industry Rivalry - More rivals reduces profits because there are many options. Fewer rivals reduces options, and increases profits for the firm.  
+* The Threat of New Entrants - profitable industries can attract more players. These can create more rivalries and reduce profits. Barriers of entry, including higher cost of entry and government regulations, can inhibit other entities from entering the industry.  
+* Threat of Substitutions - Products from a different industry might be able to be used to substitute for a firms offerings at a lower cost. An example might be, if everyone decides to make their own sandwiches, Subway Sandwiches would have reduced profits. The key is for the firm to make their product more appealing than the substitute. For example, a premade product is fast and easy and requires no knowledge of how to create the substitute. Subway makes the sandwich for you.  
+* Supplier Power - If a supplier has control over limited or unique resources or product, their power is high and they can charge higher amounts for their goods. If their products are readily available, like comodities like pork and beans, their power is low and their cost reflects this.  
+* Buyer Power - In this relationship the firm becomes the supplier to the buyer. If the industry is full of rival firms, the buyer has many choices and can demand a lower price, and vice versa. Firms can implement "switching costs" to make choosing a different firm's product more expensive or difficult for the buyer in order to reduce the buyer's power. Examples are litterally charges, like a cell phone provider might use if a customer terminates a contract early, to technilogical challenges, like compatibility issues between the firm and rival firm's devices.  
+
+## 8.5 The Internal Environment
+How and why do managers conduct an internal analysis of their firms?  
+
+The **Internal Environment** includes employees, investors, and assets.  
+
+### Resources and Capabilities
+**Resources** are what an organization has. This includes people, equiptment, facilities, cash, etc.  
+**Capabilities** are what an organization offers. This includes goods and services, anything that can create value for a customer.  
+
+### The Value Chain
+The **Value Chain** is a series of steps that an organization follows to create a product that the customer will pay for. The value of the product should increase with each step.  
+**Primary activities** are the steps the organization takes to create the product.  
+**Support activities** are steps the organization takes that are not directly part of the products creation, but support the organization's ability to create products.  
+
+### Using Resources and Capabilities to Build an Advantage over Rivals
+Resources and Capacities should be considered assets that can seperate an organization from its competetors.  
+
+### **Using VRIO
+**VRIO** is an analytical tool use to assess resources and capabilities. It is an acronym and stands for **v**alue, **r**arity, **i**mitation, and **o**rganization.  
+**V**alue: does the resource or capability generate value for the organization?  
+**R**are: Is the resource or capacisty unique or unusual within the industry?  
+**I**mitate: Is this difficult for competitors to imitate?  
+**O**rganization: Is the organization organized in a way that can take advantage of this resource or capability to generate value?  
+
+1. What are firm resources and capabilities?  
+Resources are what an organization has. This includes people, equiptment, facilities, cash, etc.  
+Capabilities are what an organization offers. This includes goods and services, anything that can create value for a customer.  
+
+3. Describe a value chain and what the activities in the chain represent.  
+
+4. What is VRIO? What questions do the letters stand for, and how does using VRIO help a manager make decisions?  
+
+## 8.6 Competition, Strategy, and Competitive Advantage
+What does it mean to compete with other firms in a business environment, what does it mean when a firm has a competitive advantage over its rivals, and what generic strategies can a firm implement to gain advantage over its rivals?  
+
+Firms exist in a competitive environment. They use strategy to seek a competitive advantage.  
+
+### Competition
+A firm has a competitive advantage over its rivals when it has more customers, generates more profit, and provides more value to its shareholders.  
+A firm can use PESTEL to evaluate its external environment and VRIO to evaluate its resources and capabilities. These tools can help it to gain a competitive advantage.  
+
+### Generic Business-Level Competitive Strategies
+Michal Porter's three **generic business-level strategies** outline methods of organizing to compete in a product market. These are **cost-leadership**, **differentiation**, and **focus**.  
+
+#### Cost Leadership
+Cost leadership means charging less that competitors for the same product. This can be achived by reducing costs throught the value chain. Managing costs from suppliers, finding the lowest costing labor markets, automating as much as possible are some ways in which a cost leader can spend as little as possible on its products so as to gain profit while offering the lowest price.  
+
+#### Differentiation
+Differentiation is the opposite of cost-leadership. Instead of reducing costs throughout the value chain, the firm adds value at each step. Instead of lowering the cost of the final product, the cost is raised. The strategy is to provide a higher quality product to a market willing and able to pay more for it.  
+
+#### Focus
+Focus means creating a high quality product specific to a small market. The firm puts its efforts into marketing its specialized product to customers who are willing to pay a high enough price that the firm can maintain profitability.  
+
+### Strategic Groups
+**Strategic groups** are competitors offering similar products and using the same generic strategy. Organizations do not typically compete against other organizations using a different generic strategy or offering different products.  
+
+1. What is competition, and what is the role of strategy in competition?  
+
+2. When does a firm have a competitive advantage over its rivals?  
+
+3. Explain the differences between the three business-level generic competitive strategies.  
+
+## 8.7 Strategic Positioning
+What elements go into determining a firm’s strategic position?  
+
+Using the analysis tools discussed in this chapter, a manager can gain an understanding of their competitive and macro environment, resources and capabilities, and state of their industry to make decisions about their **strategic position**. A strategic position includes choosing a generic strategy, geographical and consumer markets, and finding something to set itself apart (something that makes it unique).  
+
+1. How does strategic analysis help a firm develop its own strategic position?  
+Strategic analysis helps a firm identify it's competitive and macro environment, resources and capabilities, and state of their industry. This knowledge informs what strategy and markets to persue.  

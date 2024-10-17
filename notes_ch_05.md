@@ -63,8 +63,9 @@ Caroucci's five ways organizations provoke good people to make unethical decisio
 2. Excessive pressure to reach unrealistic performance targets compromises people’s choices.  
 3. When individuals face conflicting goals, they feel a sense of unfairness and compromise their reasoning.  
 4. Only talking about ethics when there is a scandal.  
-5. When there is no positive example available, individuals react instead of choose ethical decisions.
+5. When there is no positive example available, individuals react instead of choose ethical decisions.  
 
+Questions:  
 1. What are terminal and instrumental values?  
 Terminal values are goals. Instrumental values are behaviors that lead to those goals.  
 
@@ -181,7 +182,7 @@ Recognize the worth of others. Treat people as and end in themselves, not as a m
 
 ### Treat All Stakeholders Fairly
 Ethical leaders treat everyone fairly, justly, equaly. Favoritism creates winners and losers and breeds resentment, with exception for when an individual warents special treatment in order to have a just outcome.  
-To revent winners and losers emerging, everyone must receive equal opportunities, according to their needs, rights, effort, societal contributions, and performance.  
+To prevent winners and losers emerging, everyone must receive equal opportunities, according to their needs, rights, effort, societal contributions, and performance.  
 
 ### Work Towards a Common Good
 Ethical leaders strive towards a **common good**, something **altruistic** that benefits a greater community, and servers the needs of others.  
@@ -236,7 +237,7 @@ Culture is transmitted by:
 1. The values and styles that leaders espouse and practice.  
 2. The heroes and heroines that the company rewards and holds up as examples.  
 3. The rites and symbols that organizations value.  
-4. The way that organizational executives and members communicate amung themselves and with teir stakeholders.  
+4. The way that organizational executives and members communicate amoung themselves and with their stakeholders.  
 
 Culture can account for 20-30% of the difference in performance, compared to unremarkable competitors.  
 Culture is based in values. Values model and communicate compliance standards.  
@@ -246,7 +247,7 @@ Culture is based in values. Values model and communicate compliance standards.
 * Employees are aware of the conduct, values, and communications of senior leaders.  
 * The company regularly surveys employees to get measure their engagement/commitment.  
 * Employees are less likely to respond to presures that require compremising on cultural values and are more likely to report misconduct.  
-* Employees can percive the ethical priorities of their coworkesr, the value of their organization and are willing to share in it.  
+* Employees can percive the ethical priorities of their coworkers, the value of their organization and are willing to share in it.  
 
 ### Compliance and Ethics
 Carrot and Stick, two necessary elements of an ethcial corporate culture.  
@@ -257,7 +258,7 @@ Both are neccessary to motivate proper, ethical and legal behavior within the or
 Self-regulation by corporations is always necessary. Because real world events have demonstrated that that on it's own is not enough to prevent organizations from negatively impacting the larger society, governments implement compliance measures in the form of laws, to motivate apropriate behaviors.  
 
 1. In what ways do law and compliance complement ethics in organizations?  
-While corporate values motivate ethical behaviors, sometimes they are not enough. Compliance measures, internal to the organization, or excerted externally by government laws and regulations, motivate ethical behavior by corporations and the individuals that make them up.  
+While corporate values motivate ethical behaviors, sometimes they are not enough. Compliance measures, internal to the organization, or exerted externally by government laws and regulations, motivate ethical behavior by corporations and the individuals that make them up.  
 
 2. How does stakeholder management differ from stockholder management?  
 Stakeholder management considers the needs of all stakeholders when making decisions and taking actions.  
@@ -277,7 +278,7 @@ What value do CSR (corporate social responsibility) programs offer to organizati
 CSR is unlikely to solve any significant sociocultural problems, but it does project an ethical culture to stakeholders. There is evidence that this can influence consumer behavior with regard to a companies brand.  
 Most executives and many analysts and industry experts believe that well managed CSR does increase a businesses profitability.  
 
-### Shareholder Management
+### Stakeholder Management
 **Stakeholder management** is the belief that corporations should consider all the relationships that impact the companies performance, and that the companies actions impact.  
 
 ### Identifying and Influencing Major Stakeholders
@@ -333,7 +334,7 @@ U.S. Firms are encouraged (how?) to add value to the countries they do business 
 10. Work against corruption, including extortion and bribery  
 
 ### MNEs Corporate Cultures
-Establishing ethical corporate culture abroad is challenging. Must recognize an respect local ethics and values, take a multicultural approach, and employ a diverse workforce.  
+Establishing ethical corporate culture abroad is challenging. It must recognize and respect local ethics and values, take a multicultural approach, and employ a diverse workforce.  
 **Hanna**'s five strategic questions for organizations doing business abroad.  
 1. “What do customers and stakeholders in our market expect from our organization? (Will their standard of living be raised? Will their cultural expectations be violated?)  
 2. What is our strategy to be successful in this competitive marketplace? (What can we realistically hope to achieve? What results are we willing to commit to?)  
@@ -348,7 +349,7 @@ Characteristics of MNEs:
 * Merit based status  
 * Openness to new ideas  
 * Excitement about new cultural environments  
-* Sensitive to cultural diffrences  
+* Sensitive to cultural differences  
 Social audits can help companies identify their impact and make corrections when necessary.  
 
 1. What ways can and do some MNEs demonstrate social responsibility in foreign countries?  
@@ -357,7 +358,7 @@ Social audits can help companies identify their impact and make corrections when
 2. What are some specific ethical business practices other countries (besides the United States) and regional governing bodies (such as the European Union) practice and demonstrate with regard to the environment and competition?  
 no idea  
 
-## 5.8 Emerging Trands in Thics, CSR, and Compliance
+## 5.8 Emerging Trends in Ethics, CSR, and Compliance
 Identify forecasts about contemporary ethical and corporate social responsibility issues.  
 
 1. #MeToo: People are speaking out about harassment and it is damaging to reputations. Create a corporate culture that encourages employees to speak up when they feel harassed and resolve conflicts as early as possible.  

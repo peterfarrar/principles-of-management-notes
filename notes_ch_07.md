@@ -45,7 +45,7 @@ Entrepreneurs that do not own a business, but apply their entrepreneurial skills
 They have autonomy and funding to pursue their vision, but the security of a regular salary and benefits. There is less risk.  
 
 ## Why Become an Entrepreneur?
-* Reasons to become an entrepreneur include:  
+Reasons to become an entrepreneur include:  
 * Enjoying the challenge of starting a new venture.  
 * Controling one's own destiny.  
 * Financial independance.  
@@ -89,7 +89,7 @@ Beyond the charactersistics of an entrepreneur is business knowledge. Technical 
 * Managerial organization
 * Operating strategies
 * Obtaining finance
-* day to day supervision
+* Day to day supervision
 Interpersonal and communication skills are important.  
 Entrepreneurs eventually learn they can't do everything themselves. They hire and train others, and focus on the parts they are best at.  
 
@@ -140,7 +140,7 @@ Do a self-assesment. Do you have the traints needed to success? What type of bus
 80% of Inc. 500 executives got the idea from working in the same or related field (seeing a need). Knowledge of the field or industry increases chance of success. Others have hobbies and intersets that can grow into a business, or find inspiration in school or conversations with others (friends, family, customers), or through other personal experiences, to name a few.  
 
 **Checklist for Starting a Business**  
-* Before you start your own small business, consider the following checklist:
+Before you start your own small business, consider the following checklist:  
 * Identify your reasons
 * Self-analysis
 * Personal skills and experience
@@ -164,7 +164,7 @@ A good business plan should take an objective and critical look at the business 
 A business plan serves as the intital operating plan for the business.  
 Key features:
 * General description of the company
-* Wualification of the owner(s)
+* Qualification of the owner(s)
 * Description of the products and/or services
 * Market analysis
 * Sales and Distribution channels
@@ -209,7 +209,7 @@ Angel investors are individuals. They like to get in early. They are cautious wi
 Venture capital comes from investment firms (VC firms). They receive an ownership interset and a say in management. They tend to invest later than an angel investor.  
 
 ### Buying a Small Business
-Less ridk.  Still requires careful, thorough analysis. Know why the owner is selling (problems with business, or personal reasons?). Can the owner provide assistance initially? Are customers loyal to the business, or the previous owner? Consider a non-compete so that clientel doesn't follow the seller to a new, similar busines.  
+Although less risky, buying a small business still requires careful, thorough analysis. Know why the owner is selling (problems with business, or personal reasons?). Can the owner provide assistance initially? Are customers loyal to the business, or the previous owner? Consider a non-compete so that clientel doesn't follow the seller to a new, similar busines.  
 Prepare a business plan.  
 
 ### Risky Business
@@ -239,7 +239,7 @@ There are three basic types of financing. Self financing is when the entrepreneu
 Why does managing a small business present special challenges for the owner?
 
 Small business owners need to solve problems that may arise, and pivot with changes in market conditions. A solid business plan is them most important tool a small business owner can have. It keeps them connected to the core elements of the business (hiring, training, managing, for example).  
-Owners need to evaluate performance, recognize changes in market and economic conditions, develop new policeis, nurture new ideas, to keep the business growing. Types of skills required change as the business grows, and accordingly, so does the makeup of employees.  
+Owners need to evaluate performance, recognize changes in market and economic conditions, develop new policies, nurture new ideas, to keep the business growing. Types of skills required change as the business grows, and accordingly, so does the makeup of employees.  
 
 ### Using Outside Consultants
 Small businesses benefit from using consulting services from specialists. Common examples are accounting and legal services. Other common outsourcing includes IT, marketing, customer service, order fulfillment, payroll, HR. As a company grows, the owner/leadership needs to review these services. At some point it may make sense to bring some or all services in-house.  
@@ -273,7 +273,7 @@ Reasons why small businesses continue to thrive in the United States:
 * _Personal satisfaction from work:_ Many small-business owners cite this as one of the primary reasons for starting their companies. They love what they do.
 * _Best route to success:_ Business ownership provides greater advancement opportunities for women and minorities, as we will discuss later in this chapter. It also offers  small-business owners the potential for profit.
 * _Rapidly changing technology:_ Technology advances and decreased costs provide individuals and small companies with the power to compete in industries that were formerly closed to them.
-* _Major corporate restructuring and downsizing:_ These force many employees to look for other jobs orcareers. They may also provide the opportunity to buy a business unit that a company no longer wants.
+* _Major corporate restructuring and downsizing:_ These force many employees to look for other jobs or careers. They may also provide the opportunity to buy a business unit that a company no longer wants.
 * _Outsourcing:_ As a result of downsizing, corporations may contract with outside firms for services they used to provide in-house. Outsourcing creates opportunities for smaller companies that offer these specialized goods and services.
 * _Small businesses are resilient:_ They are able to respond fairly quickly to changing economic conditions by refocusing their operations.
 

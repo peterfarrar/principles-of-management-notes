@@ -13,18 +13,36 @@ Internally, strengths identify what an organization is already good at, the weak
 Externally, opportunities identify what an organization can persue, threats can identify what to avoid, but also how to adapt strategy to create opportunites.
 SWOT analysis is not a perfect tool It is limited by the persons doing it. It will miss what those things that that person can not recognize or imagine.
 
-
 3. Describe a firm’s macro environment and how managers use PESTEL to understand it.
 PESTEL is an acronym for external-environmental factors that are generally outside of an organizations direct control. PESTEL stand for Political, Economic, Sociocultural, Technological, Evnironmental, and Legal factors. Managers can use this distillation of factors to inform their decision-making. Unlike SWOT, PESTEL doesn't categorize factors as opportunities or threats, but simply acknowledges them as external factors to be interpreted by the organization. Not all factors fit into one category. Many factors overlap multiple PESTEL categories. A threat to one organization can be an opportunity for another, or turned into an opportunity instead of a threat.
 
 4. What is a firm’s micro environment, and why is it important?
+A firms micro environment is made up of entities it directly interacts with. This includes customers, suppliers, competitors, and other intermediaries. These are the entities that directly influence the firm and vice versa. I'm thinking of these in terms of a firms ability to compete successfully, that is, its ability to be profitable. To successfully compete, an organization must understand its micro environment and the relationships it has within it.
 
 5. What is an industry, and how do Porter’s Five Forces help a manager trying to understand a firm’s industry environment?
+Michael Porter has grouped the micro environment into "Five Forces" by which to examine it.
+* Industry Rivalry: Strong rivalry (competition) generally leads to lower prices and lower profits. Weak rivalry generally means there are plenty of customers to support most or all firms in the industry.
+* The Threat of New Entrants: Profitable industries attract new entrants. The threat of entrants can be mitigated by barriers to entry, in particular the cost of entry, and regulations. Industries that require expensive investments to participate have a higher cost of entry, a greater barrier to entry. Regulations can require more hoops for a potentioal threat to jump through in order to do business within an industry.
+* Threat of Substitutes: Any product or service that can meet the same customer need as the firms offering is considered a substitute. It is not a rival within the industry, but offerings from a different industry that can meet the same need. An example might be, a high end restaurant offers a pricy steak dinner. A customer can make a steak dinner at home for a much lower price. The restaurant must offer more than just a steak dinner to keep the customer interested, like a pleasing atmosphere, excellent service, and exceptional preparation. 
+* Supplier Power: Firms rely on suppliers to make their products or offer their services. If supplies are hard to come by, the supplier has more power. Some items like specialized equiptment or computer chips in a pandemic, are more costly because they are only available from a limited number of sources, sometimes just one. Commodities like pork and beans, on the other hand, are typically readily available from many sources, so supplier power is low and prices reflect this.
+* Buyer Power: When a firm has a unique product they have the power, where as in highly competitive industries, where customers have many choices, the buyer has the power. Firms can mitigate this by implementing "switching costs." These can litterally be a cost, like a fee associated with breaking a contract early, or they could be other challenges to making the change, like incompatible technologies, or excessive effort on the part of the customer to make the change (like changing an email address or phone number).
 
 6. What are firm resources and capabilities, and what information does VRIO provide about them?
+Resources are what an organization has. This includes people, equiptment, facilities, cash, etc.  
+Capabilities are what an organization offers. This includes goods and services, anything that can create value for a customer.  
+VRIO is an analytical tool to help the organization evaluate resources and capabilities. It asks four questions and if the answers are yes, it is determined that the resource or capability gives the organization a competitive advantage. VRIO is an acronym and stands for Value, Rare, Imitate, and Organization. The four questinos are:
+* Value: Does the resource or capability generate value?  
+* Rare: Is the resource or capacisty unique or unusual within the industry?  
+* Imitate: Is this difficult for competitors to imitate?  
+* Organization: Is the organization organized in a way that can take advantage of this resource or capability to generate value?  
 
 7. When does a firm have a competitive advantage over its rivals?
+A firm has a competitive advantage over its rivals when it has more customers, generates more profit, and provides more value to its shareholders.
+A firm can use PESTEL to evaluate its external environment and VRIO to evaluate its resources and capabilities. These tools can help it to gain a competitive advantage.
 
 8. What are generic competitive strategies, and how are they implemented in a firm’s value chain activities?
-
+Michal Porter's three generic business-level strategies outline methods of organizing to compete in a product market. These are cost-leadership, differentiation, and focus.
+Cost leadership means charging less that competitors for the same product. This can be achived by reducing costs throught the value chain. Managing costs from suppliers, finding the lowest costing labor markets, automating as much as possible are some ways in which a cost leader can spend as little as possible on its products so as to gain profit while offering the lowest price.
+Differentiation is the opposite of cost-leadership. Instead of reducing costs throughout the value chain, the firm adds value at each step. Instead of lowering the cost of the final product, the cost is raised. The strategy is to provide a higher quality product to a market willing and able to pay more for it.
+Focus means creating a high quality product specific to a small market. The firm puts its efforts into marketing its specialized product to customers who are willing to pay a high enough price that the firm can maintain profitability.  
 

@@ -180,7 +180,7 @@ Functional structures, then departmental, designed to adapt to external environm
 Increased competitions and added complexity in banking, insurance and other industries required faster interactions, leading to a more organic organizational designs and structures.  
 Communication required increased speed and integration.  
 Computers and networks became part of the organization.  
-Introduction of **horizontal organizational design**.
+Introduction of **horizontal organizational design**.  
 **Third era** mid-1990s- present:  
 Factors include the Internet, global competition, outsourcing of expertise, low wage foreign workers, automated supply chains.  
 Increased horizontal and organic structures evolved.  
@@ -191,7 +191,7 @@ Evolving from Mechanistic to Organic, here are six structures:
 1. Divisional Structure  
 1. Geographic Structure  
 1. Matrix Structure  
-2. Vertical Team Structure  
+2. Networked Team Structure  
 3. Virtual Structure  
 
 #### Functional Structures
@@ -241,7 +241,7 @@ Another form of horizontal organization.
 More informal and flexible.  
 “Networks have two salient characteristics:
 clustering and path length. Clustering refers to the degree to which a network is made up of tightly knit groups while path lengths is a measure of distance—the average number of links separating any two nodes in the network.”  
-More organic, network teams form naturally, finding the individuals annd resources necessary to the vision and eeds of the mission, unless the organization or leaders withing the organization obstruct this.  
+More organic, network teams form naturally, finding the individuals annd resources necessary to the vision and needs of the mission, unless the organization or leaders withing the organization obstruct this.  
 “The networked
 organization is one that is connected together by informal networks and the demands of the task, rather than a formal organizational structure. The network organization prioritizes its ‘soft structure’ of relationships, networks, teams, groups and communities rather than reporting lines.”  
 Advantages are similar to organic, horizontal and matrix structures.  
@@ -249,7 +249,7 @@ Weaknesses:
 * Establishing clear lines of communication.  
 * Dependence on technology.  
 * No central physical location.  
-* 
+
 Clear lines of communication are required to set project goals and deadlines.  
 Failing technology (networks, servers) can shut down communication and delay results.  
 Without a central physical location can hamper face to face meetings, the conversations that arise organically in a physical office. This can lead to errors, misunderstandings, and late deliverables.  
@@ -262,15 +262,15 @@ Able to bring together dispersed expertise.
 Boundaryless organization.  
 Examples: Uber, Airbnb, Amazon, Reebok, Nike, Puma, Dell.  
 Advantages:  
-* Const savings  
+* Cost savings  
 * Decreased response time.  
-* Access to more an ddiverse labor.  
+* Access to more an diverse labor.  
 * 24 hour workday.  
 * Less damaging to the environment.  
 
 Disadvantages:  
 * Social isolation.  
-* Limited communication can lead to lack of trust umong employees and between employees and the organization.  
+* Limited communication can lead to lack of trust amoung employees and between employees and the organization.  
 * Potentially reduced collaboration.  
   
 1. Why does the matrix structure have a dual chain of command?  
@@ -305,7 +305,7 @@ Structure, Strategy, Systems, Skills, Style, Staff, all connected to Shared Valu
 Arie Lewin and Carrloo Stephens:  
 CEO and top leaders scan external environment, identify uncertainties and resources, then use SWOT analysis (Strength, Weaknesses, Opportunities, Threats) to establish the organizations domain. Then define vision, mission, goals, strategies. Then establish organizational culture and structure, tec.  
 
-No such alignement with the external environment is perfect or perminent.  
+No such alignment with the external environment is perfect or perminent.  
 
 1. Identify the six major organizational structures.  
 * functional
@@ -322,7 +322,7 @@ A way to describe structure within an organization. The seven S's are Structure,
 Identify the fit between organizational cultures and the external environment  
 
 Possibly "...the most important internal dimension of an organization's effectiveness criteria."  
-more influential than strategy. Motivates employees "beliefs, hehaviors, relationships, and wasy they work..." Based on values.  
+More influential than strategy, it motivates employees "beliefs, behaviors, relationships, and ways they work..." Based on values.  
 "first, culture helps an organization adapt to and integrate with its external environment by
 adopting the right values to respond to external threats and opportunities; and secondly, culture creates
 internal unity by bringing members together so they work more cohesively to achieve common goals."  
@@ -342,7 +342,7 @@ Flexibility vs stability
 1. Adhocracy Culture: External focus with flexibility. Dynamic/entrepreneurial.  
 1. Clan Culture: Internal focus with flexibility. People-oriented/friendly.  
 1. Hierarchy Culture: internal focus with stability/control. Process-oriented/structured.  
-1. Market Culture: external focus with stability/control. esults-oriented/competitive.  
+1. Market Culture: external focus with stability/control. Results-oriented/competitive.  
 
 **Adhocracy Culture**  
 Organization emphasizes creating, innovating, visioning the future, managing change, risk-taking, rulebreaking, experimentation, entrepreneurship, and uncertainty.  

@@ -1,0 +1,115 @@
+Mid term
+Management
+MBCC
+Fall 2024
+
+
+1.	The textbook notes there are three types of managerial skills. Please talk about each a bit and tell me which you think is the most important, and why.
+The three types of skills mentioned early in the text are Interpersonal, Informational, and Decisional.
+
+- talk about each
+The interpersonal role is two fold. Firstly it is highly social. The manager spends most of their time in conversations. These include informally touching base with employees, structured meetings, outings, receptions, client meals, interviews, employee reviews, and relationships with venders, and other stakeholders internal and external to the organization. The manager also has more formal roles, like the figurehead role in which they take place ceremonies like all-hands meetings, team meetings, and annual status updates.
+
+In the Informational role the manager gathers, organizes, analyzes, and disseminates information. Much of this is acquired verbally. The manager must make sense of often incomplete information and decide who to share what with. In this role the manager may also act more formally as a source of information for press releases, as a media spokesman, as a political lobbiest.
+
+In the Decisional role, managers have a number of different challenges. Most importantly, their decisions must have the best interest of the organization in mind. This can include changes to the organizations long term vision, changes to the product or services offered, changes to ways of doing business. The manager must also be able to handle crisises as they arise. Unexpected changes in the environment demand decisions to be made for the organization to remain viable. More predictable decisions include allocation of limited resources like personel, equiptment, budget, as well as negotiating salaries, costs, and resolving conflicts.
+
+It is tough to choose one as the most important, as they are all critical to the success of the manager. In the informational role, gathering and deseminating happens in large part through conversation, and sometimes throught the figurehead role, which also falls under interpersonal. And decision making is also based on information gathered through meetings and conversations. So I could argue that without exellence in the interpersonal role, the other two roles would suffer, making the interpersonal role foundational to the success of a manager.
+
+
+2.	  A) Take one of the ethics cases you reviewed in class. Apply the four components to decision- making to the case and talk about it here.  Use the Ethical Decision tree.
+/* 
+section 2.5 sub 4 Analyzing an alternative:
+1. Moral sensitivity-recognizing that the issue has a moral component;
+2. Moral judgment-determining which actions are right vs. wrong;
+3. Moral motivation/intention-deciding to do the right thing; and
+4. Moral character/action-actually doing what is right.
+
+Exhibit 2.6: Ethical Decision Tree 
+ */
+
+For this question I've chosen the case study "Targeting a Broken Heart."
+The question I'm examining is: Having identified users' posts signalnaling that those users are about to go through a breakup, is it ethical for the company to then help its clients target their ads based on this research?
+Question one: Moral sensitivity. Is there a moral componant to this issue at all?
+The article mentions that posts on and around the breakup frequently include words like "suffering", "healing", "drowning sorrows." I believe this indicates that the individuals being targeted are in an emotionally vulnerable state. This implies that the practice could be interpreted as preditory. So yes, there appears to be a moral componant.
+Question two: Moral judgement. What actions are right? What actions are wrong?
+The action of attempting to sell the user a product that they might well enjoy, and which could help to alleviate some of their distress and possibly hurry their healing is not on the face of it a bad thing. The user that purchases a travel package or new hobby after a break up could benefit from it. However there is an ethical difference between someone choosing to take a vacation after a breakup on their own, or at the suggestion of a friend, family member, or perhaps a psycologist, and a for profit organization suggesting it. The friend, family member, etc. is generally considered to have the individuals best interest at heart, where as the business placing the add is operating in their own best interest.
+Question three: Moral motivation/intention: what is the right thing to do?
+Based on the moral judgement above, I believe that knowingly marketing products and services to vulnerable individuals is unethical and so should not be practiced.
+Question four: Moral Character/action. What to do?
+There's nothing wrong with a business marketing its services, but targeting individuals that are emotionally vulnerable seems unethical. Don't do it.
+
+Using the decision tree:
+Is it legal? Yes, as far as I know.
+Will it maximize shareholder value? Yes. Using targeted advertising reduces costs and increases profits.
+Is it ethical? Because the targeting is based on someone's suffering, no.
+Final answer: Don't do it.
+
+B) From an ethical standpoint, do ethics for a company/organization come from the firm itself or the those (us!) that work there. Please give me your opinion and give examples.
+Ultimately, the ethics for an organization come from the top, that is, from leadership. However there are many factors influencing the decision maker when establishing the organizational values. These can include the decision makers own social norms, and geographical cultural norms. Considering the make up of the stakeholders is useful in establishing the organization's values, because these are the people that the organization will interact with, the employees, the local communities, the vendors and service providers that the organization relies on, the polititians, the customers, just to name a few. The ethics of the organization will impact it's perception and acceptance by its stakeholders, which in turn will impact its viability.
+
+*** Better, cleaner example?
+The mining company Rio Tinto has a history of placing profits first. In 2020 they destroyed a 47,000 year old aboriginal archialogical site in order to mine more iron ore. They know it was there. Local activists fought to stop them but were unsuccessful. After the fact, the company has been ordered to rebuild the cave system in the area, at significant cost. Shareholders demanded the CEO step down. Because of this history, Rio Tinto is facing intensive scrutiny in Serbia, where it is hoping to acquire and mine one of the largest known lithium deposits in the world. Despite reasuring local people and governments that they will not cause lasting harm to the surrounding farm lands, the people simply don't believe them. They will probably prevail, but not without significant added costs to mitigate the local outrage.
+If Rio Tinto had established effective values and ethics and acted accordingly, they could have avoided significant conflict and costs. 
+
+3.	Many companies "sort of" act ethically. Please discuss the "dark side of organizational leadership".
+
+The dark side of organizational leadership refers to when leadership is unable to see, model, communicate, or act upon ethical values. The text identifies seven symptoms of failure, taken from Driscoll and Hoffman's "Ethics Matter: How to Implement Values-driven Management." These are:
+Ethical blindness. Unable to perseive ethical issues.
+Ethical muteness: Do not use ethical language or have ethical principals.
+Ethical incoherence: Unaware of inconsistancies between their words and their behaviors.
+Ethical paralysis: Unable to act on their values. Frozen by fear of consequences or simply by lack of knowledge (ignorance).
+Ethical hypocrisy: Not actually committed to the stated values. Selfishly deligate based on what they don't want or know how to do.
+Ethical schizophrenia: The values they claim in the workplace conflict with the values they display outside of the workplace.
+Ethical complacency: Belief that they can do no wrong.
+
+As an example, the words "Don't be evil" were the Google motto and appeared in it's code of conduct. This is a wonderful sentiment, but not something the company apears to have taken to heart. The mini-series "Billion Dollar Code" tells the story of how Google stole the intellectual property for Google Earth from the German company Terravision, and fooled them into undervaluing their company in writting so that the cost of persuing them in court would be greater than the award they could receive if they won. Google has since modified their motto and code of conduct.
+
+Other leadership factors that lead to unethical behaviors are summorized in Ron Caroucci's "Why Ethical People Make Unethical Choices."(1) They are:
+Creating a culture where people are hesitant or afraid to speak up.
+	If employees don't feel they can speak up, they will be unable to express ethical concerns.
+Putting excessive preasure on employees to reach unrealistic performance targets.
+	If an goal is unrealistic, employees can be expected to "cut corners" and make ethical compromises to reach them.
+Present an employee with conflicting goals.
+	Asking someone to achive something that is not possible is percieved as unfair and leads to ethical compromises.
+Discussing the organizations ethics reactively, after something has gone wrong, but not as a part of the normal business practice.
+	Leaders seeking an ethical culture need to discuss and model positive ethical behaviors as a part of their normal duties.
+Failing to set a positive example.
+	Ethics, values, culture all start with leadership. If leadership isn't setting the positive example, it will be reflected in the overall organizational culture.
+
+
+4.	A) How do emotions play a part in decision-making? What is Emotional Intelligence?
+Humans use two systems for decision making, reflective and reactive. They take place in different regions of the brain, with the prefrontal cortex hosting Reflective decision-making and the basal ganglia and amygdala hosting the Reactive. The reactive system tends to be quicker at making decisions. These are often based in previous experiences, or emotional "gut" responses. The reflective system is characterized by methodical, logical, and analytical thinking. It is superior for novel situations, and better at setting emotions aside.
+
+That emotions tend to drive decision-making towards the reactive system does not mean that emotions should be left out of careful decision-making. It can be important for a manager to understand their own emotions and the impact of them on the decision-making process. It is also important to recognize and consdier the emotions of other stakeholders in order to make the decision-making process effective. This ability to recognize one's own emotions, the emotions of others, and to have empathy is considered emotional intelligence. 
+
+
+B) In week three we talked about something called a S.W.O.T. analysis. What is it? How is it used? What were some issues for McDonalds?
+S.W.O.T is a tool for analyzing the internal and external environment of an organization. It is an acronym for Strength, Weakness, Opportunity, Threat. By identifying and listing its strengths and weaknesses, an organization can recognize what it is good at, what it isn't good at, and what it can improve. These are aspects of the its internal environment. External elements can be listed as opportunities and threats. Opportunities are things the organization can take advantage of after identifying it's strengths. Threats are trends, forces, rivals, that can negatively impact the organization. Identifying threats can help the organization avoid these negative impacts, and at times can even guide change to turn threats into opportunities.
+
+Our SWOT analysis of McDonald's emphasised many of it's strengths as a globally recognized brand. But it also identified some threats and weaknesses. Prominent threats include cultural changes, in particular consumer prefrences and health concerns. As threats can also be opportunities, McDonalds has implemented solutions to many of it's threats, introducing more and healthier options. Threats can also emerge in new markets. It's interesting to see how a fast food chain known for their hamburgers adapted when entering the Indian market. India has a large population of vegitarians, as well as hindus. The building block of the hamburger, the cow, is considered sacred by a large percentage of the population. McDonald's restaurants in India do not serve any beef. They have created a menu that includes several kinds of vegitarian burgers, and incorporated local spice blends as well.
+
+
+5.	We talked several times in class of the different "stakeholders" the firm has to pay attention to. Please identify at least 4 stakeholders and give examples of difficult groups to pacify (if 1 is happy, the other is unhappy)
+
+Shareholders, trading partners, customers, the local community are all stakeholders in an organization. While it would be ideal for all stakeholders to have aligned values and goals, it's often not the the case. Balancing the different stakeholder priorities can be challenging.
+
+Shareholders generally want to reduce costs and increase profits. This could include sourcing from the cheapest labor markets, and paying as little as possible for the acquisition and desposal of materials. This can bring them into conflict with communities and customers. Communities may want to ensure materials are disposed of in a manor that is safe to them. Some customers might scrutinize perceived unethial practices, and may prioritize fair trade and the ethical treatment of laborers when choosing goods and services.
+
+Cost cutting to improve shareholder's value can also impact employees who may find themselves feeling undervalued. When organizations make decisions like reducing or suspending annual performance bonuses, they may find their top talent tendering their resignations.
+
+It's important for managers to use tools like PESTEL to understand their micro and macro environment, and recognize the impact of their decision-making on all of their stakeholders. Sometimes saving money in one part of the value chain can cost more by impacting, and losing the support of, other stakeholders.
+
+6.	In week five we discussed Entrepreneurs. Specifically we discussed the "anatomy of an Entrepreneur". What were some traits mentioned in this image/slide? What do you think was the most important trait? Why?
+
+Characteristics of an entrepreneur include being ambitious, independent, self-confident, comfortable taking risks, being a visionary, finding creative solutions, being energetic, passionate, and committed to the venture.
+
+Perhaps not every entrepreneur has all of these traits, but some seem more necessary. While small business owners may be comfortable managing and running their business with little change over the years, entrepreneurs' ambition means they are typically looking for growth. To achieve this they must be confident that they both understand the challenges they face, and know how to overcome them. They must have the vision to recognize trends and changes in the environment, and creativive enough to take advantage of them. And they must have the energy to put in the time and work, and the passion and commitment to make the necessary personal sacrifices to succeed.
+
+Vision, creativity, and risk tolerance seem to me to be the three most important traits of an entrepreneur. If I had to choose just one, it would be the risk tolerance. Entrepreneurs are looking for novel solutions, products and services. This means there isn't much of a blue print for what they are trying to build. Unlike a franchise or other traditional small business, where standard practices are shared and available, an entrepreneur needs to find creative solutions to untested markets. And that means taking more risk. If they are not comfortable with that, then the other qualities will not be enough for them to succeed.
+
+
+
+ENDNOTES
+1. https://hbr.org/2016/12/why-ethical-people-make-unethical-choices
+(see homework 3 for an example of an end note)

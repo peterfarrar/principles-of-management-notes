@@ -87,8 +87,7 @@ Ways of doing buisness can become obsolete.
 **disturbance or crisis handler** must involuntarily react to conditinos. Crises can arise because of bad decisions/mgmt, or becuase of unanticipated changes. Reactive.  
 **resource allocator** managers make decision aout what, how much, when and why resources are allocated. Funding, equiptment, human labor, office/production space, time are limited.  
 **negotiator** Managers spend significant amout of time in negotiations: budget allocation, loabor, collective bargening agreements, formal dispute resolutions.  
-Dosens of weekly decicions result from breif negotionations between and amoung employuees, custoemr, clients, suppliers, others.  
-
+Dosens of weekly decicions result from breif negotionations between and amoung employees, customer, clients, suppliers, others.  
 
 * Informational
   * Monitor

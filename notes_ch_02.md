@@ -31,7 +31,7 @@ Two types of decision making are Reactive and Reflective. They take place in dif
 
 Reactive decision-making is faster. Experience can lead to decent reactive decision making. But reactive decision-making is not well thought out.  
 Reflective decision-making takes longer. It is used for complex situations. It processes information logically, analytically, and methodically.  
-Although emotions can have a negative impact on decision making, they shouldn't be ignored. Managers must observe and understand their emotional responses when making decisions. **Emotional Intelligence** is that ability to recognize, understand, and pay attention to both one's own emotions (self-awareness) and the emotions of others(empathy), to self-regulate one's emotions, and to have the social skills to manage the emotioal part of 
+Although emotions can have a negative impact on decision making, they shouldn't be ignored. Managers must observe and understand their emotional responses when making decisions. **Emotional Intelligence** is that ability to recognize, understand, and pay attention to both one's own emotions (self-awareness) and the emotions of others(empathy), to self-regulate one's emotions, and to have the social skills to manage the emotioal part of relationships.
 
 1. Explain the two systems used by the brain in decision-making.  
 The brain has two systems of decision-making, reactive and reflexive.  
@@ -133,6 +133,18 @@ Don't rush. Get a large number of possible options. Talk to other people and thi
 Avoid **logical fallacies** (any seemingly reasonable argument based on flawed logic).  
 Consider long term implications.  
 Consider ethical implications.  
+1. Moral sensitivity—recognizing that the issue has a moral component;
+2. Moral judgment—determining which actions are right vs. wrong;
+3. Moral motivation/intention—deciding to do the right thing; and
+4. Moral character/action—actually doing what is right.
+
+**Ethical Decision Tree**
+```
+                                                                        yes -> is it ethical?                       no ->  dont do it
+               yes -> consider whether it maximizes shareholder value?                                              
+is it legal?                                                            no ->  would not taking action be ethical?  yes -> dont do it
+               no -> dont do it                                                                                     no ->  do it, but don't disclose actions to shareholders
+```
 
 ### 4. Selecting an Alternative
 Perfection is unattainable. Choose the best alternative you can, but accept that it may be impossible to know if it's the best. You can adjust later if necessary.  

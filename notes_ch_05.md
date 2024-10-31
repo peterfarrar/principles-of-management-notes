@@ -372,7 +372,7 @@ Identify forecasts about contemporary ethical and corporate social responsibilit
 9. Data Privacy: Adjust business compliance as laws around data privacy arise.  
 10. New Networks: Evolve to account for new online networks.  
 
-Ethics and Compliance go hand in hand. Strong cultures create agreement of values amungst stakeholders.  
+Ethics and Compliance go hand in hand. Strong cultures create agreement of values amongst stakeholders.  
 
 ### Moral Entrepreneur: A New Component of Ethical Leadership
 **Moral Entrepreneur**: A person, group, or organization that creates a new moral norm.  

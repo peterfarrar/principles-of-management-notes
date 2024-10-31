@@ -1,0 +1,99 @@
+1. What are the four "waves" of the human resource management evolution?
+As described in the book "HR From the Outside In" the four waves of HR evolution are:
+* Wave 1 - HR Administration: Focus on basic HR duties and services like regulatory compliance, employee attendance, recruitment, salaries, pension administration.  
+* Wave 2 - HR Practices: Developing inovative practices in compensation, learning, communication, and sourceing.  
+* Wave 3 - HR Strategy: Integrating HR strategy with the businesses strategy. Letting business strategy drive HR decisions and planning, and including HR in the business strategy process.  
+* Wave 4 - HR Outside In: Future facing, assessing the environment, developing stakeholder perceptions (in particular the organizations reputation).  
+
+
+2. What are some of the key regulations that human resources must manage compliance with?
+The text details six examples of this:
+The Age Discrimination in Employment Act protects people over fourty from age discrimination. This covers all employment terms, such as hiring, firing, salary, etc.  
+The Americans with Disabilities Act protects people from being descriminated against based on disablities. This applies to anyone who has or is percieved to have a mental or physical limitation. Employers are required to make accommodations for these individuals unless doing so presents an "undue hardship."  
+The Fair Labor Standards Act establishes a number of standards around employing people including age, pay, record keeping.  
+The Family and Medical Leave Act protects an employee from being terminated if they need to take up to 12 weeks off within a one year span to address a family and/or medical issue. There are exceptions for smaller employers.  
+The National Labor Relations Act protects the rights of private-sector employees to organize, form unions, and collectivly bargin with employers.  
+The Worker Adjustment and Retraining Notification Act requires employers of 100 or more employees to provide sixty days notice ahead of large layoffs. This doesn't apply to most public employers.  
+
+
+3. What are some of the unintended consequences of a forced ranking system?
+Two negative effects of forced-ranking are:
+* Judging on performance, not potential.
+* Negativly fosters competition that undermines collaboration and teamwork.  
+
+4. What are some of the performance management challenges that must be addressed, no matter what the system?
+Some challenges mentioned in the text include:
+* Align individual and company goals: Employees tend to set goals that relate to thir work, rather than the businesses goals. Business goals can be complex and difficult for an employee to understand and align with. And those goals can change often and rapidly.  
+* Reward performance: Rewarding performance must be based on the performance management process.  
+* Identify poor performers: Identifying poor performers is challenging. The performance management process doesn't seem to be good at this. Managers often don't address poor performance outside of the annual review process.  
+* Avoid legal problems: Real time communication and documentation can help protect the organization from legal issues.  
+
+5. Why are many companies interested in moving to a pay-for-performance strategy?
+Pay-for-performance is a reward strategy that identifies and rewards high performing employees. This in turn motivates employees to perform at a higher level and to have more impact on the companies success. Stephen Miller's article "Study: Pay for Perfomrance Pays Off" shows research confirming that pay-for-performance strategies that differenciate and reward high performers improves the likelyhood of achieving the companies goals (by as much as 32.5%).
+
+6. What are the main process steps for implementing pay for performance?
+HR is responsible for designing, implementing, communicating the pay-for-performance program. Important elements are:  
+1. define the pay philosopy. Get leadership's cultural buy in on paying top performers more.  
+2. Analize the impacts and costs.  
+3. Review existing pay policies and make necessary adjustments. Identify and correct gaps before implementing the program.  
+4. Adjust compensation process to align with new program. Formalize the pay increases and bonuses and how they tie to performance.  
+5. Communicate changes in philosophy to the managers and employees. Integrate this into the organizations culture.  
+
+7. What are some best practices for recruiting new leadership candidates?
+In the 2009 HBR article, "The Definitive Guide to Recruiting in Good Times and Bad"(1), Boris Groysberg, Nitin Nohria, and Claudio Fernández-Aráoz list seven actions for a successful recruiting strategy.
+
+Anticipate the Need  
+Based on the organization's strategic plan some things to determine are:
+* What the future structure of the organization will be?
+* What positions will need to be filled?
+* What development will internal candidates need?  
+
+Specify the Job  
+For each role, answer the questions like:
+* What skills and competencies will be required for a given role?
+* How will they fit into the existing internal environment?
+* What kind of support will the organization need to supply to help the new hire to succeed?  
+
+Develop the Pool  
+Develop a succession plan and cast a wide net. Before the hiring process even begins, develop a pool of potential candidates. Communicate with many contacts, including customers, suppliers, board members, employees. Consider internal candidates, former employees, and individuals that have worked closely with trusted members of the organization. When it's time to move forward, identify the top 10-12 candidates.   
+
+Assess the Candidates  
+Get the right people involved in the interview process. Keep the number small, like 3. Typically this would be the HR manager, the hiring manager, and the hiring managers boss.  
+The best interviewers will be knowledgable about the needs of the role being filled, unbiased, and have high emotional intelligence.  
+Interview questions should be behavioral, questions about past experiences that ressemble situations expected to be encountered in the role.  
+Following the interviews, the interviewers should meet and discuss the candidates. Use metrics for specific qualities. Reach a concensus on one to three candidates.  
+Check references. Good references include a former boss, a former peer, a former report or mentee.  
+Involve a small number of key, unbiased stakeholders in the process. Let them review the necessary competencies for the role and the candidates assessments before meeting with the candidate.  
+Finally, the three interviewers meet again to review feed back from the stakeholders and discuss the final candidate. The hiring manager should always make the final decision.  
+
+Close the Deal  
+Demonstrate commitment to and interest in the candidate. This can include a personal commitment by the CEO. Communicate an understanding of their motivations, goals, etc.  
+Communicate clearly the challenges and opportunities of the position and how it differs from other companies, competitors.  
+It is recomended that the hiring manager be involved in the final stages of the hiring process, as it conveys commitment and respect.  
+Present an appropriate compensation package. This should be carefully balanced to appeal to the candidate without negatively impacting current employees that may learn the details.  
+
+Integrate the Newcomer  
+It is important to integrate the new hire into the organization. Assigning a mentor who can assimilate the new hire into the culture and provide feedback. HR, the hiring manager, and the mentor should check in regularly for the first few months, and quarterly for the first year. During these checkins, insure the new hire is making progress and getting the following:  
+* The support they need
+* Developing the right relationships
+* Understanding the business  
+Developing a detailed integration plan can help with this.  
+
+Audit and Review  
+Despite the best practices, it is still possible to hire the wrong candidate. If the candidate demonstrates ineptitude, it is in the organization's best interest to release them.  
+It can help to keep track of the other top candidates, and assess how they are fairing in their new roles (assumption being they have new roles). Comparisons their can help determine if the assessments that led to the new hire were effective in choosing the best candidate. It can also identify the best assessors for future recruitment.  
+
+8. Describe the steps of a talent review session.
+In a talent review, managers use a nine-box grid to evaluate their reports across two axes, a performance axis and a potential axis. The performance axis is a evaluation of the employees past performance. The potential axis is an evaluation of the employees future potential. Each axis has three ranks, high, medium, low.
+For the talent review session, managers bring their nine-box ratings and presents them to the rest of the management team. Other participants can way in on employees they've interacted with. In the talent review session, it is important to have objective definitions of what performance and potetial mean within the organization. At the end of the session the ratings are used to determine outputs of an action plan for each employee, identifying high-potential employess, identifying gaps in talent, and other input that can be used in succession planning.
+
+9. What is the difference between performance and potential?
+Performance is an evaluation of how an employee has performed in their current role, meeting goals, demonstrating competencies, etc.
+Potential is an evaluation of how an employee could advance within the organization. This does not mean their competency in their current work. It asks whether the employee is capable and willing to advance.
+
+10. How can you tell if a candidate has potential?
+Measuring potential is challenging. Managers look for competencies like people and leadership skills, business acumen, technology and learning skills, and strategic thinking. Their past performance, behavior, education, accomplishments, and interest in advancement are all considered.
+
+
+Footnotes:
+(1) https://hbr.org/2009/05/the-definitive-guide-to-recruiting-in-good-times-and-bad

@@ -5,6 +5,6 @@
 | HW 3 | Chapter 5 | page 153 | 1 - 12 | 9/29/24 |
 | HW 4 | Chapter 7 | page 243 | 1 - 12 | 10/13/24 |
 | HW 5 | Chapter 8 | page 274 | 1 - 8 | 10/20/24 |
-| HW 6 | Chapter 11 | page 364 | 1 - 10 | unknown |
-| HW 7 | Chapter 13 | page 444 | 1 - 11 | unknown |
-| HW 8 | Chapter 14 & 15 | page 519 | 1 - 17 | unknown |
+| HW 6 | Chapter 11 | page 364 | 1 - 10 | 11/03/24 |
+| HW 7 | Chapter 13 | page 444 | 1 - 11 | 11/17/24 |
+| HW 8 | Chapter 14 & 15 | page 519 | 1 - 17 | 12/01/24 |

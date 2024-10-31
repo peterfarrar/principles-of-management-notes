@@ -80,7 +80,8 @@ The **External environment** can be seen as everything in the world outside of t
 * Customers
 * Competitors
 * Suppliers
-* Intermediaries
+* Intermediaries  
+
 **Macro environment** includes:  
 * Sociocultural trends
 * Government

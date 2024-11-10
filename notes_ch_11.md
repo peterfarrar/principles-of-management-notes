@@ -227,4 +227,4 @@ For the talent review session, managers bring their nine-box ratings and present
 Performance is about the past. Potential is about the future.  
 
 2. What roles should an organization discuss as part of the succession planning process?  
-A business should have a business plan that includes which roles are critical, which roles will become vacant or be created in the future, who can fill those roles from within and how much time would they need to be prepared, as well as which roles need to be filled externally.  
+A business should have a business plan that includes which roles are critical, which roles will become vacant or be created in the future, who can fill those roles from within and how much time would they need to be prepared, as well as which roles need to be filled externally.

@@ -42,23 +42,46 @@ Edwin Locke identified seven traits of leaders:
 
 Locke belives people with these traits have great leadership potential and that these traits attract followers.  
 
-There does not appear to be a great deal of support for the idea that great leaders are born that way. While genetics does appear to influence some of the necessary qualities, like intelligence and disposition, life experience apears to determine what is expressed and what is suppressed. And many traits (like honesty and self-confidence) appear to be mostly or entirely a product of the environment.
+There does not appear to be a great deal of support for the idea that great leaders are born that way. While genetics does appear to influence some of the necessary qualities, like intelligence and disposition, life experience apears to determine what is expressed and what is suppressed. And many traits, like honesty and self-confidence, appear to be mostly or entirely a product of the environment.
 
-Psycologist Walter Mischel describes behavior as a function of the individual and the situation they are in. In what he calls strong situations personality is suppressed, whereas in weak situations the personality is aloud to express itself. We can equate "strong" to "mechanistic" organizations, and "weak" to "organic" organizations.  
+Psycologist Walter Mischel describes behavior as a function of the individual and the situation they are in. In what he calls strong situations personality is suppressed, whereas in weak situations the personality is alowed to express itself. We can equate "strong" to "mechanistic" organizations, and "weak" to "organic" organizations.  
 So a person posessing leadership traits may be so constrained in a mechanistic organization that they are unable to express their nature, and their abilities would remain unrecognized. In an organic organization the same person would be more likely able to demonstrate, and be recognized for, their leadership qualities.
 
 
 5. Both the Ohio State University and University of Michigan leadership studies identified central leader behaviors. What are these behaviors, and how are they different from one another?
+Ralph Stogdill's researchers at OSU identified two key sets of behaviors in good leaders, consideration and initiatin structure.  
+Consideration refers to a relationship oriented set of behaviors: recognizing them, being supportive, friendly, communicative, representing the interests of his team members, respecting their ideas and their feelings.  
+Initiating structure refers to the task oriented set of behaviors: identifying, planning, and scheduling the work that needs to be done and providing direction to accomplish it, solving problems, coordinating resources, setting performance standards and proceedures.
 
+At about the same time as Stogdill's research, similar research was underway at the University of Michigan. And they found two similar sets of behaviors.  
+They identified Employee-member-centered behaviors that correlated closely with the consideration behaviors from Ohio State university, and job-centered behaviors that correlated closely with the initiating structures behaviors. The U of M study's findings corrolating so closely with the OSU findings lend credibility to eachother.  
+
+These two sets of behaviors are not part of a binary choice. They can be effectively used together.
 
 
 6. Blake and Mouton's work with the Leadership Grid® identified several leadership types. What are they, and how does this leadership model look from the perspective of situation theories of leadership?
+Robert R. Blake and Jane S. Mouton developed the Leadership Grid (also known as the Managerial Grid) as a way to classify styles of leadership. They rank two axes from 1 (low) to 9 (high), Concern for People and Concern for Production. Five basic breakdowns of this tool are:
+1,1: Indifferent (aka Impoverished). Managers have low concern for accomplishing tasks and little concern for the well being of the employee.  
+9,1: Controlling (aka Task management). Managers focus on results and have little concern for the well being of the employee. This corrolates well with McGregor's Theory X.  
+5,5: Status Quo (aka Middle of the road). Managers try to strike an equal balance between people and production. Neither need is met.  
+1,9: Accomodating (aka Country club). Managers focus entire on the needs of the employee. The expectation is that this will motivate employees to perform at a high level. Generally, it is accepted that it doesn't.  
+9,9: Sound (aka Team). Managers focus heavily on both the people and the product. Employees are empowered and trusted to perform. This correlates well with McGregor's Theory Y.  
+
+Initially Blake and Mouton believed 9,9 was the superior management style. However it's been shown that while this style is excellent for organizations where job-centered leadership is needed, organizations with highly compenent employees do not require a high level of concern for production. Situational theories suggest that no one leadership style is effective for all situations, and that style and situation need to be matched with eachother.  
 
 
 7. Identify and describe the three situational variables presented in Fiedler's contingency theory of leadership.
+Situational favorableness/situational control describes a leaders ability to control and influence a group to achive the desired outcomes. This is measured by degrees of three factors:  
+*  leader-member relations: The group accepts the leader, work well with them, and are loyal to them.  
+*  task structure: The leader presents specific, detailed tasks, unambiguous goals, and a plan to achive them.  
+*  position power: The leader is able to influence the group.  
 
 
 8. What are the four leadership behaviors in the path-goal theory of leadership?
+1. Supportive ledership: Concerned with the needs of the members.  
+2. Directive leadership: Defines rules and procedures, goals and expectations.  
+3. Participatative leadership: Consults and includes ideas and definition from expert employees.  
+4. Achievement-oriented leadership: Sets goals, challenges employees, demonstraits confidence in the employees abilities to succeed.  
 
 
 9. Discuss the differences between the internal and external leadership roles surrounding self-managed work teams.

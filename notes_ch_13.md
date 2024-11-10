@@ -173,7 +173,7 @@ There does not appear to be a great deal of support for the idea that great lead
 ### Other Leader Traits
 #### Sex and Gender Role
 It can be observed that men emerge as leaders more often that women. However it appears that it is less about the actual sex of the individual as it is about the gender traits. While posessing "feminine" traits does not appear to detract from leadership ability, traditional "masculine" personality traits (Assertivness, agressivness, competitiveness, stubornness) are characteristic of people in leadership roles.  
-There does appear to be differences in leadership styles based in gender. Males lean towards autocratic styles, while females lean towards democratic styles. That is, women tend to focus on participatino and the needs of the group, where as men tend to focus on tasks and the organizational goals.  
+There does appear to be differences in leadership styles based in gender. Males lean towards autocratic styles, while females lean towards democratic styles. That is, women tend to focus on participation and the needs of the group, where as men tend to focus on tasks and the organizational goals.  
 
 #### Dispositional Trait
 Leaders with a positive mood are more socially competent, able to contribute better in group situations, and are generally more successful in the leadership role. Followers pick up on the positivity and become more productive and commited to the organization and its goals.  
@@ -203,6 +203,148 @@ Locke belives people with these traits have great leadership potential and that 
 
 ## 13.5 Behavioral Approaches to Leadership
 What are the behavioral perspectives on leadership?  
+
+_Moving from traits to behaviors._  
+
+### The Ohio State University Studies
+Ralph Stogdill's researchers identified two key sets of behaviors in good leaders, consideration and initiatin structure.  
+**Consideration** refers to a relationship oriented set of behaviors: recognizing them, being supportive, friendly, communicative, representing the interests of his team members, respecting their ideas and their feelings.  
+**Initiating structure** refers to the task oriented set of behaviors: identifying, planning, and scheduling the work that needs to be done and providing direction to accomplish it, solving problems, coordinating resources, setting performance standards and proceedures.  
+
+These two sets of behaviors are not part of a binary choice. They can be effectively used together.   
+
+These categories distinguish leaders from one another. However their impact was inconsistant across organizations. The implication was that not all situations react the same way to a given leadership style.  
+
+### The University of Michigan Studies
+At about the same time as Stogdill's research, similar research was underway at the University of Michigan. And they found two similar sets of behaviors.  
+They identified **Employee-member-centered** behaviors that correlated closely with the consideration behaviors from Ohio State university, and **job-centered** behaviors that correlated closely with the initiating structures behaviors. The U of M study's findings corrolating so closely with the OSU findings lend credibility to eachother.  
+
+### The Leadership Grid®
+Robert R. Blake and Jane S. Mouton developed the Leadership Grid (also known as the Managerial Grid) as a way to classify styles of leadership. They rank two axes from 1 (low) to 9 (high), Concern for People and Concern for Production. Five basic breakdowns of this tool are:
+1,1: Indifferent (aka Impoverished). Managers have low concern for accomplishing tasks and little concern for the well being of the employee.  
+9,1: Controlling (aka Task management). Managers focus on results and have little concern for the well being of the employee. This corrolates well with McGregor's Theory X.  
+5,5: Status Quo (aka Middle of the road). Managers try to strike an equal balance between people and production. Neither need is met.  
+1,9: Accomodating (aka Country club). Managers focus entire on the needs of the employee. The expectation is that this will motivate employees to perform at a high level. Generally, it is accepted that it doesn't.  
+9,9: Sound (aka Team). Managers focus heavily on both the people and the product. Employees are empowered and trusted to perform. This correlates well with McGregor's Theory Y.  
+
+Initially Blake and Mouton believed 9,9 was the superior management style. However it's been shown that while this style is excellent for organizations where job-centered leadership is needed, organizations with highly compenent employees do not require a high level of concern for production.  
+
+1. What are the behavioral approaches to defining leadership?
+Generalizing OSU and U of M studies, and Blake and Moutons leadership grid, the two sets of behaviors found to define leadership are employee-centric and production-centric. These can be combined, as described by the leadership grid.
+
+2. What roles do gender and the popular perceptions of gender roles have on views of leadership traits?
+Successful leaders generally demonstrate masculine gender role traits like self-confidence, assertivness, agressivness, competitiveness, stubornness (uncompromising). Feminine traits tend to focus on participation and the needs of the group. While masculine traits are considered necessary, feminine traits do not detract from a leaders ability to be successful.  
+
+## 13.6 Situational (Contingency) Approaches to Leadership
+What are the situational perspectives on leadership?  
+
+"The qualities, characteristics, and skills required in a leader are determined to a large extent by the demands of the situation in which he is to function as a leader." - Ralph Stogdill 1948  
+
+A leadership style leads to different outcomes based on the situation.  
+
+### Fiedler's Contingency Model
+Fred E. Fielder, University of Washington  
+**Contingency theory of leadership** states that organizations must identify a leaders trait (apparently their are only two?) and match them to the proper situation.  
+
+#### The Leader's Trait
+THe least-preferred coworker (LPC) score is determined by examining a leaders description of their LPC. A description using positive terms (pleasant, friendly, intelligent) results in a high score and indicates a _relationship oriented_ leadership style. A description using negative terms (unpleasant, unfriendly, unintelligent) results in a low score and indicates a _task-oriented_ leadership style.  
+
+#### The Situatinal Factor
+**Situational favorableness/situational control** describes a leaders ability to control and influence a group to achive the desired outcomes. This is measured by degrees of three factors:  
+*  leader-member relations: The group accepts the leader, work well with them, and are loyal to them.  
+*  task structure: The leader presents specific, detailed tasks, unambiguous goals, and a plan to achive them.  
+*  position power: The leader is able to influence the group.  
+
+#### Leader-Situation Matches
+Fielder belived it is easier for an organization to shape the situation to match the leaders style than for a leader to change his style to match the situation.  
+
+<table style="border: 1px solid #CCCCCC">
+<thead>
+  <tr>
+    <th />
+    <th style="text-align: center" colspan=3>Favorable</th>
+    <th style="text-align: center" colspan=2>Moderate</th>
+    <th style="text-align: center" colspan=3>Unfavorable</th>
+    </tr>
+  <tr>
+    <th />
+    <th style="text-align: center">1</th>
+    <th style="text-align: center">2</th>
+    <th style="text-align: center">3</th>
+    <th style="text-align: center">4</th>
+    <th style="text-align: center">5</th>
+    <th style="text-align: center">6</th>
+    <th style="text-align: center">7</th>
+    <th style="text-align: center">8</th>
+    </tr>
+  </thead>
+<tbody>
+  <tr>
+    <td>Leader-Member Relations</td>
+    <td>Good</td><td>Good</td><td>Good</td><td>Good</td><td>Poor</td><td>Poor</td><td>Poor</td><td>Poor</td>
+  </tr>
+  <tr>
+    <td>Task Structure</td>
+    <td>High</td><td>High</td><td>Low</td><td>Low</td><td>High</td><td>High</td><td>Low</td><td>Low</td>
+  </tr>
+  <tr>
+    <td>Leader Position Power</td>
+    <td>Strong</td><td>Weak</td><td>Strong</td><td>Weak</td><td>Strong</td><td>Weak</td><td>Strong</td><td>Weak</td>
+  </tr>
+  </tbody>
+</table>
+
+Relationship-oriented styles do best in moderate situations.  
+Task-oriented styles do best in both favorable and unfavorable situations.  
+Leaders with middle range LPC scores can be used in a wider range of situations.  
+
+#### Controversy over the Theory
+Although widely accepted, criticisms include contradictory findings in the field, and a failure for Fiedler to explain the connection between a leaders attitude (LPC) and their behaviors.  
+
+### Path-Goal Theory
+Robert J. House and Martin Evans, University of Toronto  
+Like Fiedler's theory, **path-goal theory of leadership** believes leadership styles should be matched to situations. House and Evans focused on _observable behavior_. This means that changes in behavior can adapt leaders to different situations, as well as Fiedler's idea to structure situations to match leadership traits.  
+
+To be an effective leader, _the goal_ is defined, and _the path_ is the clear instruction from the leader on how to achieve the goal. Team members are rewarded for following the path and achiving the goal with something that they value (money, recognition, promotion). Leaders also provide support, clearing barriers, providing resources and coaching.  
+
+#### An Appropriate Match
+1. Analize the situation     
+2. Identify and use the correct leadership style  
+
+#### Behavior Dimensions
+1. _Supportive ledership_: Concerned with the needs of the members.  
+1. _Directive leadership_: Defines rules and procedures, goals and expectations.  
+1. _Participatative leadership_: Consults and includes ideas and definition from expert employees.  
+1. _Achievement-oriented leadership_: Sets goals, challenges employees, demonstraits confidence in the employees abilities to succeed.  
+
+## Cross-Cultural Context
+Westerners have a romantic view of successful leaders as larger than life heros.  
+Understanding effective leadership styles across cultures is still developing. Some indication is that styles that empower subordinants is not welcomed or effective in countries like india, where as it is often linked with higher employee satisfaction in the North America and Europe.  
+
+1. Identify and describe the variables presented in Fiedler’s theory of leadership.  
+_Situational favorableness/situational control_ describes a leaders ability to control and influence a group to achive the desired outcomes. This is measured by degrees of three factors:  
+_leader-member relations_: The group accepts the leader, work well with them, and are loyal to them.  
+_task structure_: The leader presents specific, detailed tasks, unambiguous goals, and a plan to achive them.  
+_position power_: The leader is able to influence the group.  
+
+2. What are the leadership behaviors in the path-goal theory of leadership?  
+_Supportive ledership_: Concerned with the needs of the members.  
+_Directive leadership_: Defines rules and procedures, goals and expectations.  
+_Participatative leadership_: Consults and includes ideas and definition from expert employees.  
+_Achievement-oriented leadership_: Sets goals, challenges employees, demonstraits confidence in the employees abilities to succeed.  
+
+3. What role does culture have in how leadership is viewed?  
+Understanding effective leadership styles across cultures is still developing. Some indication is that styles that empower subordinants is not welcomed or effective in countries like india, where as it is often linked with higher employee satisfaction in the North America and Europe.
+
+4. What are the differences between the trait, behavioral, and situational approaches to defining leadership?  
+_Traits_ refer to a qualities that the leader posesses: Honesty, self-confidence, charisma.
+_Behavioral_ refers to actions that the leader takes: Supportive, directional, task-oriented.
+_Situational_ refers to factors in the team: highly skilled employees, low self-esteem, motivated.  
+
+# 13.7 Substitues for and Neutralizers of Leadership
+What does the concept “substitute for leadership” mean?  
+
+
 
 
 

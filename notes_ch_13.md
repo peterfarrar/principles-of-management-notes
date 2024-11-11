@@ -344,7 +344,41 @@ _Situational_ refers to factors in the team: highly skilled employees, low self-
 # 13.7 Substitues for and Neutralizers of Leadership
 What does the concept “substitute for leadership” mean?  
 
+_Substitutes_ for leadership include when staff doesn't need supervision, motivation, etc. or when tasks are so clearly defined that no leader is needed to define them.  
+_Neutralizers_ are anything that gets in the way of the leader using their influence, for example a lack of organizational support, or organizationl or contractual limitations.  
+An employees _focus of attention_ is the state and trait of focusing on the job and the leader. The state is the moment of focus, the trait is the propensity to do so.  
 
+_Aside_: Managers manage processes, leaders lead people.  
 
+1. Identify and describe substitutes of leadership.  
+A highly motivated employee substitues for a leaders need to motivate. A highly skilled and experienced employee substitutes for a leaders need to define tasks.  
 
+# 13.8 Transformational, Visionary, and Charismatic Leadership  
+What are the characteristics of transactional, transformational, and charismatic leadership?  
 
+## The Transformational and Visionary Leader
+**Transformational leaders** are agents of change. They inspire using values, visions, mission. They question the status quo and motivate folowers. Sometimes they are called **visionary leaders** because they influence through dreams of what can be. They give actions meaning. They are charismatic.  
+
+## Charismatic Leadership
+A **charismatic leader**'s power is their personality. They form strong relationships with their followers. Their primary base power (from French and Raven's five power bases) is referent power. They are self-confident and have a strong drive for power.  
+
+1. What are the defining characteristics of transformational and charismatic leaders?  
+They inspire using values, visions, mission. They question the status quo and motivate folowers. Sometimes they are called "visionary leaders" because they influence through dreams of what can be. They give actions meaning. They are charismatic. Their power is their personality. They form strong relationships with their followers. Their primary base power (from French and Raven's five power bases) is referent power. They are self-confident and have a strong drive for power.
+
+13.9 Leadership Needs in the 21st Century
+How do different approaches and styles of leadership impact what is needed now?  
+
+The past couple of decades have been marked by rapid change and extreme competition. The future looks to have more of this.  
+The leaders of the future will need these qualities:  
+* strategicly opportunistic
+* globally aware
+* capable of managing a highly decentralized
+* organization
+* sensitive to diversity
+* interpersonally competent
+* organizational community builders  
+
+Contingency models, traits, and behaviors do not form the complete picture of a leader. More theories are evolving. Some of these are: leader-member exchange theory, implicit leadership theory, neocharismatic theory, value-based theory of leadership, and visionary leadership.  
+
+1. What is the role of leadership in the 21st century?
+To be the kind of visionary that can guide organizations forward to new opportunities, through new challenges, in an uncertain and rapidly changing environment.  

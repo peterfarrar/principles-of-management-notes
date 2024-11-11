@@ -85,13 +85,21 @@ Situational favorableness/situational control describes a leaders ability to con
 
 
 9. Discuss the differences between the internal and external leadership roles surrounding self-managed work teams.
+The phrase "internal leadership" is not mentioned in the text. The phrase "external leadership" is used twice, once in this question and once in the references:
+"100. C.C. Manz & H.P. Sims, Jr. 1987. Leading workers to lead themselves: The external leadership of selfmanaged work teams. Administrative Science Quarterly 32:106–129.
+Leading workers to lead themselves."
+It is attributed to the section "Transformational, Visionary, and Charismatic Leadership." but I see no mention of it in the section. That section primarilly discusses transformational, visonary, and charismatic leadership.
+
+I interperate the question to be asking, in self managed teams, where internal leaders are typically employees that have emerged and are recognized within the group, even if not anointed by the organization, and external leaders are leaders that have formal power through their title. Both of these leaders wield power and influence over the group, but their roles are different. The internal leader orchistrates the group towards their goals, provide knowledge, coaching, building concensus, guide the decision making process. The external leader can focus on providing support by prodviding resources, removing road blocks, incentivising with rewards, providing high level direction, demonstrating values.
 
 
 10. What are substitutes for leadership? What are neutralizers? Give an example of each.
+Substitutes for leadership include when staff doesn't need supervision, motivation, etc. or when tasks are so clearly defined that no leader is needed to define them. An example might be a highly experienced and skilled employee, who doesn't need a leader to define tasks for them.
+Neutralizers are anything that gets in the way of the leader using their influence, for example a lack of organizational support, or organizationl or contractual limitations. A leader who has no input into employee compensation can not use compensation to motivate or reward an employee.
 
 
 11. What are the distinguishing features of the transformational and the charismatic leader?
-
+They inspire using values, visions, mission. They question the status quo and motivate folowers. Sometimes they are called "visionary leaders" because they influence through dreams of what can be. They give actions meaning. They are charismatic. Their power is their personality. They form strong relationships with their followers. Their primary base power (from French and Raven's five power bases) is referent power. They are self-confident and have a strong drive for power.
 
 
 Footnotes:

@@ -1,3 +1,10 @@
+---
+title: "Managerial Decision-making"
+author: "@OpenStax"
+dates:
+  published: "1/1/2019"
+description: "Chapter 2: Managerial Decision-making"
+---
 # Managerial Decision-making
 ## Introduction
 ### Stephanie Korey and Jen Rubio founded a luggage company

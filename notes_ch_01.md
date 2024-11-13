@@ -1,3 +1,10 @@
+---
+title: "Managing and Performing"
+author: "@OpenStax"
+dates:
+  published: "1/1/2019"
+description: "Chapter 1: Managing and Performing"
+---
 # Managing and Performing
 ## 1.1 What Do Managers Do?
 ### What do managers do to help organizations achieve top performance?

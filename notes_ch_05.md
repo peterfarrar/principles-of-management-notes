@@ -1,3 +1,10 @@
+---
+title: "Ethics, Corporate Responsibility, and Sustainability"
+author: "@OpenStax"
+dates:
+  published: "1/1/2019"
+description: "Chapter 5: Ethics, Corporate Responsibility, and Sustainability"
+---
 # Ethics, Corporate Responsibility, and Sustainability
 ## Hasbro
 Prioritizes corporate social responsibility (CSR)  

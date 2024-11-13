@@ -1,3 +1,10 @@
+---
+title: "Leadership"
+author: "@OpenStax"
+dates:
+  published: "1/1/2019"
+description: "Chapter 13: Leadership"
+---
 # Leadership
 After reading this chapter, you should be able to answer these questions:  
 1. What is the nature of leadership and the leadership process?

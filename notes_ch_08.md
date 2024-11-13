@@ -1,3 +1,10 @@
+---
+title: "Strategic Analysis: Understanding a Firm’s Competitive Environment"
+author: "@OpenStax"
+dates:
+  published: "1/1/2019"
+description: "Chapter 8: Strategic Analysis: Understanding a Firm’s Competitive Environment"
+---
 # Strategic Analysis: Understanding a Firm’s Competitive Environment
 After reading this chapter, you should be able to answer these questions:  
 1. What is strategic analysis and why do firms need to analyze their competitive environment?

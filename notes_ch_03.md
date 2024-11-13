@@ -1,3 +1,10 @@
+---
+title: "The History of Management"
+author: "@OpenStax"
+dates:
+  published: "1/1/2019"
+description: "Chapter 3: The History of Management"
+---
 # The History of Management
 After reading this chapter, you should be able to answer these questions:
 

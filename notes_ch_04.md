@@ -1,3 +1,10 @@
+---
+title: "External and Internal Organizational Environments and Corporate Culture"
+author: "@OpenStax"
+dates:
+  published: "1/1/2019"
+description: "Chapter 4: External and Internal Organizational Environments and Corporate Culture"
+---
 # External and Internal Organizational Environments and Corporate Culture
 "Evolving business models combine strategic innovation, technological prowess, organizational cultural agility" to meet and shape "external environmental demands."  
 Many traditional business models have failed by failing to adapt to technology:  

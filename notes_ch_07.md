@@ -1,3 +1,10 @@
+---
+title: "Entrepreneurship"
+author: "@OpenStax"
+dates:
+  published: "1/1/2019"
+description: "Chapter 7: Entrepreneurship"
+---
 # Entrepreneurship
 Entrepreneurs come from all gender, age, and ethnic groups and tend to be single minded. Small businesses make significant contributions to the national and international economy.  
 

@@ -1,3 +1,10 @@
+---
+title: "Human Resource Management"
+author: "@OpenStax"
+dates:
+  published: "1/1/2019"
+description: "Chapter 11: Human Resource Management"
+---
 # Human Resource Management
 After reading this chapter, you should be able to answer these questions:  
 1. What has been the evolution of human resource management over the years and what is the current value it provides to an organization?  

@@ -11,7 +11,7 @@ After reading this chapter, you should be able to answer these questions:
 ## 8.1 Gaining Advantages by Understanding the Competitive Environment
 What is strategic analysis, and why do firms need to analyze their competitive environment?  
 **Strategic analysis** is the process of studying one's competitive environment so as to understand it's impact on their organization. Awareness of the external, competitive environment allows businesses to adapt and succeed. The **competitive environment** is a both part of the external environment and the internal environment. Who is the competition and what are they doing? Who are your customers? How is the external enviroment changing?  
-**Environmental scanning** is the process of examining both the internal and external state of the organization. It alows the organization to position itself for change when needed.  
+**Environmental scanning** is the process of examining both the internal and external state of the organization. It allows the organization to position itself for change when needed.  
 
 ### The Competitive Environment
 **competitive environment** include internal and external components.  
@@ -90,7 +90,8 @@ The **External environment** can be seen as everything in the world outside of t
 * Environment
 * Demograpics
 * Laws
-* Technology
+* Technology  
+
 Organizations have little direct control over their macro-environment.  
 
 ### PESTEL
@@ -160,7 +161,7 @@ Not all factors fit into one category. Many factors overlap multiple PESTEL cate
 A firms macro-environment are external factors that are generally outside of the organizations direct control. PESTEL is an acronym that helps to break these out into categories that can be analysed and interpreted to help an organization make decisions.  
 
 1. What does PESTEL stand for? How do managers use PESTEL to understand their firm’s macro environment?  
-PESTEL is an acronym for external-environmental factors that are generally outside of an organizations direct control. PESTEL stand for Political, Economic, Sociocultural, Technological, Evnironmental, and Legal factors. Managers can use this distillation of factors to inform their decision-making. Unlike SWOT, PESTEL doesn't categorize factors as opportunities or threats, but simply acknowledges them as external factors to be interpreted by the organization. Not all factors fit into one category. Many factors overlap multiple PESTEL categories. A threat to one organization can be an opportunity for another, or turned into an opportunity instead of a threat.  
+PESTEL is an acronym for external-environmental factors that are generally outside of an organizations direct control. PESTEL stand for Political, Economic, Sociocultural, Technological, Environmental, and Legal factors. Managers can use this distillation of factors to inform their decision-making. Unlike SWOT, PESTEL doesn't categorize factors as opportunities or threats, but simply acknowledges them as external factors to be interpreted by the organization. Not all factors fit into one category. Many factors overlap multiple PESTEL categories. A threat to one organization can be an opportunity for another, or turned into an opportunity instead of a threat.  
 
 ## 8.4 A Firm's Micro Environment: Porter's Five Forces
 What makes up a firm’s external micro environment, and what tools do strategists use to understand it?  
@@ -171,7 +172,7 @@ Micro Environment:
 * Suppliers
 * Customer
 
-A firm must understand its micro-environment in order to be successfull. Firms are part of an **industry**. An industry is a group of firms making similar products or offering similar services. Although firms may not directly compete with eachother, they must understand their customers, suppliers, and industry.  
+A firm must understand its micro-environment in order to be successfull. Firms are part of an **industry**. An industry is a group of firms making similar products or offering similar services. Although firms may not directly compete with each other, they must understand their customers, suppliers, and industry.  
 Michael Porter developed **Porter's Five Forces** as a tool to examime groups within the micro-environment and understand its impact on the organization and industry.  
 
 |  |  |  |
@@ -183,16 +184,16 @@ Michael Porter developed **Porter's Five Forces** as a tool to examime groups wi
 Analysts determine how each force has a strong or weak impact on the firm.  
 
 ### Industry Rivalry
-Strong rivalry reduces profit potential for all firms. Weak rivalries have fewer firms and either there are enough customers to sustain each firm, or each firm has specialized in a way to meat a portion of the customer bases' unique needs.  
+Strong rivalry reduces profit potential for all firms. Weak rivalries have fewer firms and either there are enough customers to sustain each firm, or each firm has specialized in a way to meet a portion of the customer bases' unique needs.  
 
 ### The Threat of New Entrants
-Profitable markets attract new entrants, either new firms or firms from other industries expanding their offerings by entering new industries. This may be easier or harder based on the **Barriers to entry** (factors that impact a new firms ability to compete successfully). These include cost of entry (equiptment, etc.), regulations, brand loyalty.  
+Profitable markets attract new entrants, either new firms or firms from other industries expanding their offerings by entering new industries. This may be easier or harder based on the **Barriers to entry** (factors that impact a new firms ability to compete successfully). These include cost of entry (equipment, etc.), regulations, brand loyalty.  
 
 ### Threat of Substitutes
 A substitute is any product or service that can meet the same need for the customer. These are not rivals, but different products or services that can draw away customers.  
 
 ## Supplier Power
-Supplieres that offer specialized products or control resources or part of a market, can have an upperhand over the firm. Examples include rare earth minerals, specialized computer chips. Suppliers of comodoties like wheat, oil, porkbellies, often have low power, as their are many rivals to choose from.  
+Supplieres that offer specialized products or control resources or part of a market, can have an upperhand over the firm. Examples include rare earth minerals, specialized computer chips. Suppliers of comodoties like wheat, oil, porkbellies, often have low power, as there are many rivals to choose from.  
 
 ## Buyer Power
 "Buyer" in this context is the customer that purchases the firms goods or services. In This case the firm becomes the supplier. If the product or service is unique, they can command a higher price. If the goods and services provided are commonly available, then the firm will have to set competitive prices, and so has less power. Some firms use **switching costs** to penalize consumers if they chose to change supliers. The harder it is to change to the competitors offering, the more power the firm has.  

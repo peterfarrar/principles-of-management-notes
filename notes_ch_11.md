@@ -20,13 +20,13 @@ HR From the Outside In describes HR evolution in "waves".
 
 HR's primary responcibilites are in managing the employee life cycle, from recruiting, hiring, onboarding, developing, reviewing, compensating, promoting, terminating.  
 
-1. How has the function of human resource management evolved over they ears?  
+1. How has the function of human resource management evolved over the years?  
 HR has become more sophisticated over time. Originally an administrative role, HR is now integrated with company strategy internally and externally.  
 
 2. In what way do you usually interact with human resources?  
 Initial calls when starting the interview process. orientation, layoffs.  
 
-## 11.2 Human Resource Mnagement and Compliance
+## 11.2 Human Resource Mangement and Compliance
 How does the human resources compliance role of HR add value to an organization?  
 
 The _Age Discrimination in Employment Act_ protects people over fourty from age discrimination. This covers all employment terms, such as hiring, firing, salary, etc.  
@@ -37,7 +37,7 @@ The _Fair Labor Standards Act_ establishes a number of standards around employin
 
 The _Family and Medical Leave Act_ protects an employee from being terminated if they need to take up to 12 weeks off within a one year span to address a family and/or medical issue. There are exceptions for smaller employers.  
 
-The _National Labor Relations Act_ protects the rights of private-sector employees to organize, form unions, and collectivly bargin with employers.  
+The _National Labor Relations Act_ protects the rights of private-sector employees to organize, form unions, and collectively bargin with employers.  
 
 The _Worker Adjustment and Retraining Notification Act_ requires employers of 100 or more employees to provide sixty days notice ahead of large layoffs. This doesn't apply to most public employers.  
 
@@ -69,16 +69,16 @@ Initially a tool to drive accountability and appraise managers, it is now part o
 Forced-ranking is a system of dividing employees into groups of high achievers, low achievers, and everybody else. High achievers are promoted to senior positions, low achievers are let go.  
 Problems with this approach include:  
 * Judging on performance, not potential.
-* Negativly fosters competition that undermines collaboration and teamwork.  
+* Negatively fosters competition that undermines collaboration and teamwork.  
 
-Many executives believe performance management doesn't drive higher performance, and focuses on past performance. Efforts are being made to change this, looking for more agile processes that focus on future performance. Deloitte Services has four questions that it asks it's managers:  
+Many executives believe performance management doesn't drive higher performance, and focuses on past performance. Efforts are being made to change this, looking for more agile processes that focus on future performance. Deloitte Services has four true-or-false questions that it asks it's managers:  
 1. Given what I know of this person’s performance, and if it were my money, I would award this person the highest possible compensation increase and bonus.
 1. Given what I know of this person’s performance, I would always want him or her on my team.
 1. This person is at risk for low performance.
 1. This person is ready for promotion today.  
 
 Challenges to be addressed:  
-* Align individuals and company goals. Employees tend to set goals that relate to thir work, rather than the businesses goals. Business goals can be complex and difficult for an employee to understand and align with. And those goals can change often and rapidly.  
+* Align individuals and company goals. Employees tend to set goals that relate to their work, rather than the businesses goals. Business goals can be complex and difficult for an employee to understand and align with. And those goals can change often and rapidly.  
 * Reward performance. Rewarding performance must be based on the performance management process.  
 * Identifying poor performers is challenging. The performance management process doesn't seem to be good at this. Managers often don't address poor performance outside of the annual review process.  
 * Avoid legal problems. Real time communication and documentation can help protect the organization from legal issues.  
@@ -96,13 +96,14 @@ The US Military in WWI.
 How do companies use rewards strategies to influence employee performance and motivation?  
 
 Companies use performance and reward systems to motivate employees.  
-**Reward Systems** are frameworks organizations create to  motivate employees to perform at a high level. High performing employees are rewarded some form of compensation to keep them motivated. M ost organizations use a **pay-for-performance** approach, which rewards high performing, impactful employees competitively.  
+**Reward Systems** are frameworks organizations create to  motivate employees to perform at a high level. High performing employees are rewarded some form of compensation to keep them motivated. Most organizations use a **pay-for-performance** approach, which rewards high performing, impactful employees competitively.  
 
 Stephen Miller, _Study: Pay for Performance Pays Off_:
 * Recognize and reward high performers (46.9%)
 * Increase the likelihood of achieving corporate goals (32.5%)
 * Improve productivity (7.8%)
 * Move away from an entitlement culture (7.8%)  
+
 Half of high performing companies pay for performance, recognizing, and rewarding their top performers. Lower performing organizations tended to focus on corporate goals.  
 
 HR is responsible for designing, implementing, communicating the pay-for-performance program. Important elements are:  
@@ -115,7 +116,7 @@ HR is responsible for designing, implementing, communicating the pay-for-perform
 Compensation is a key piece of the total rewards that HR professionals use in the rewards process. _World at Work_ defines six elements that make up the total rewards:  
 * Compensation
 * Benefits
-* WOrk-life effectiveness
+* Work-life effectiveness
 * Recognition
 * Performance management
 * Talent development
@@ -124,7 +125,7 @@ The August 2008 HBR article “Employee Motivation: A Powerful New Model” iden
 The drive to acquire goods that affect our well being. Addresses how we compare ourselves to others and what more we want. Some say we are insatiable. Best addressed by compensation.  
 The drive to bond with individules, organizations, cultures, and more. Pride at being connected to something, part of something. Best addressed by corporate culture.  
 The drive to comprehend the world around us. Motivated to figure things out and contributing. Best addressed by job design.  
-The drive to defend ourselves, families, friends, etc. Defensive against external threats. Also, resistance to change. Best addressed by performance manaagement and resource allocation.  
+The drive to defend ourselves, families, friends, etc. Defensive against external threats. Also, resistance to change. Best addressed by performance management and resource allocation.  
 
 Compensation and reward systems are extremely complicated. Compensation, total rewards, and drives are factors in creating a successsful one.  
 
@@ -191,7 +192,7 @@ Developing a detailed integration plan can help with this.
 
 **Audit and Review**  
 Despite the best practices, it is still possible to hire the wrong candidate. If the candidate demonstrates ineptitude, it is in the organization's best interest to release them.  
-It can help to keep track of the other top candidates, and assess how they are fairing in their new roles (assumption being they have new roles). Comparisons their can help determine if the assessments that led to the new hire were effective in choosing the best candidate. It can also identify the best assessors for future recruitment.  
+It can help to keep track of the other top candidates, and assess how they are fairing in their new roles (assumption being they have new roles). Comparisons there can help determine if the assessments that led to the new hire were effective in choosing the best candidate. It can also identify the best assessors for future recruitment.  
 
 The talent acquisition program is a key part of HR's role. The right talent give an organization a competitive advantage.  
 
@@ -206,7 +207,7 @@ The talent acquisition program is a key part of HR's role. The right talent give
 * Audit and Review  
 
 1. How can we ensure a more successful integration of the new hire?  
-Provide mentorship and regualar checkins with management and HR for the first few months, and quarterly checkins for the first year.  
+Provide mentorship and regular checkins with management and HR for the first few months, and quarterly checkins for the first year.  
 
 ## 11.6 Talent Development and Succession Planning
 What are the benefits of talent development and succession planning?  

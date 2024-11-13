@@ -48,7 +48,7 @@ The people that orchestrate the group activities to achive its goals.
 ### The Follower
 The follower is an active participant. Their needs are part of what the leader must fulfill in order to lead. They give the leader power (or reject them) to achive the goals.  
 For a leader to be effective they must understand the personalities of the followers. Some people respond better to authoritarian leadership, some prefer a participatorial approach.  
-People with high low self esteem may need a supportive environment, whereas other people are more self confident and self motivated. People less commited or motivated may require more direct and directive leadership.  
+People with low self esteem may need a supportive environment, whereas other people are more self confident and self motivated. People less commited or motivated may require more direct and directive leadership.  
 
 ### The Context
 The context is the environment in which the leaders and followers exist. This can refer to location, complexity and clairty of the goal, interpersonal relationships within the organization, energy levels, level of consensus, etc.  
@@ -78,14 +78,14 @@ An **Informal Leader** is not offically recognized by the organization, but is r
 
 ### Paths to Leadership
 **Desingated leaders** are formally groomed for the role, while **emergent leaders** appear dynamically during the process of achiving the groups goals.  
-Emergent leaders gain their power and influence by posessing the knowledge, skills, abilities, expertise that the organization needs to succeed. What those are changes over time as the environment changes. Emergent leaders become leader because the other members of the group ceed power to them. Therefore, they are typically respected within the group. Members to not ceed power to people they deem unworthy, unethical, dishonest, ignorant or lazy.  
+Emergent leaders gain their power and influence by posessing the knowledge, skills, abilities, expertise that the organization needs to succeed. What those are changes over time as the environment changes. Emergent leaders become leader because the other members of the group ceed power to them. Therefore, they are typically respected within the group. Members do not ceed power to people they deem unworthy, unethical, dishonest, ignorant or lazy.  
 
 ### Leadership as an Exercise of Influence
 A leaders power comes from their ability to influence others behaviors, beliefs, attitudes, that is, their social influence.  
 
 In the late 1950s, John R. P. French Jr. and Bertram Raven developed the [Five Bases of Power model](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Power/French_&_Raven_Studies_Social_Power_ch9_pp150-167.pdf). They are:  
 _Reward power_ - Power granted because of the perception that a person can grand rewards like power, money, fame.  
-_Coercive power_ - Power granted because of the perceptin that a person can punish by means like physical, emotional, financial.  
+_Coercive power_ - Power granted because of the perception that a person can punish by means like physical, emotional, financial.  
 _Referent power_ - Power granted a person because of the perception that it is beneficial to be associated or approved by them.  
 _Expert power_ - Power granted because of the perception that the person possesses and may share knowledge or expertise that is needed.  
 _Legitimate power_ - Power granted by the perception that the person has a right to have power over others. Exaples include legal title (king, policeman), organizational title (manager, director), personal qualities (apperance, charisma), and rationality (evidence based, reasoned).  

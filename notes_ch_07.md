@@ -221,7 +221,7 @@ Common causes of closure:
 * Lack of experience - inadequate knowlege, experience, expertise.
 * Personal reasons - lack of interest, other opportunities, life events.
 
-Early planning (thorough business plan) is important. Business conditions can change. Unexpected challenges can arise. Competitors with deeper pockets or more experience can out perform.  
+Early planning (through a business plan) is important. Business conditions can change. Unexpected challenges can arise. Competitors with deeper pockets or more experience can out perform.  
 Stress and the time and commitment can be overwhelming. Slow growth and rapid growth can both create challenges. Rapid response and planning is required to balance them.  
 Know when it's failing, minimize personal impact. If you're losing money hand over fist, it may be time to except defeat.  
 
@@ -256,13 +256,13 @@ Many online resources exist to assist the small busines owner understand challen
 * The Small Business Association's Office of International Trade.
 * The Department of Commerce s Trade Information Center (1-800-USA-TRADE), or its [Export Center(http://www.export.gov)](http://www.export.gov).  
 
-1. How does the small-business owner’s role change over time?
+1. How does the small-business owner’s role change over time?  
 As a company grows, an owners role is expected to move away from the minutia and focus more on long term planning and managing employees.  
 
-2. How does managing a small business contribute to its growth?
+2. How does managing a small business contribute to its growth?  
 Good management is rewarded. Poor decision and management can lead to failure. Examples are financing, hiring practices, planning, planning, planning, outsourcing, setting a cadence to review and revise the business plan/direction of the company.  
 
-3. What are the benefits to small firms of doing business internationally, and what steps can small businesses take to explore their options?
+3. What are the benefits to small firms of doing business internationally, and what steps can small businesses take to explore their options?  
 Opportunities may exist in foreign markets. As economic environments change in the U.S., foreign markets may become more or less appealing. Their are online resources, organizations, and third party specialists that can assist the small business owner in evaluating and implementing these opportunites.  
 
 ## 7.6 The Large Impact of Small Business
@@ -321,7 +321,7 @@ The SBA is a government agency dedicated to speaking for and providing assistanc
 The SBA provides management advice in a number of ways. They have a Business Development Library with publications on many business topics. Through the Office of Business Development and Small Business Development Centers, they offer advice, training, and education. They offer managing consulting services for free through the Service Corps of Retired Executinve (SCORE) and the Active Corps of Executives (ACE). These programs connect small business owners with experienced executives who can help them. The SBA offers online resources and courses for entreprenuers and small-business owners as well.  
 The SBA offers focused assistance to women and minorities in the form of microloans, spanish language publications and special programs through it's Minority Business Development Agency.  
 
-7.8 Trends in Entrepreneurship and Small-Business Ownership
+## 7.8 Trends in Entrepreneurship and Small-Business Ownership
 What trends are shaping entrepreneurship and small-business ownership?  
 
 Entrepreneurial opportunities arise from change. We are at a junction of social, demographic, and technilogical change. 

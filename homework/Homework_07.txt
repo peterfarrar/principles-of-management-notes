@@ -22,7 +22,7 @@ These componants interact with and influence each other. The successful leader o
 In the late 1950s, John R. P. French Jr. and Bertram Raven developed the Five Bases of Power model(1). They are:  
 Reward power - Power granted because of the perception that a person can grand rewards like power, money, fame.  
 Coercive power - Power granted because of the perceptin that a person can punish by means like physical, emotional, financial.  
-Referent power - Power granted a [erspm] because of the perception that it is beneficial to be associated or approved by them.  
+Referent power - Power granted a person because of the perception that it is beneficial to be associated or approved by them.  
 Expert power - Power granted because of the perception that the person possesses and may share knowledge or expertise that is needed.  
 Legitimate power - Power granted by the perception that the person has a right to have power over others. Exaples include legal title (king, policeman), organizational title (manager, director), personal qualities (apperance, charisma), and rationality (evidence based, reasoned).  
 

@@ -80,7 +80,7 @@ These people have a need to control people and things. There are "two faces of t
 _The personal power seeker_ seeks to control others for the sake of controlling others. They want to be dominant. Their motivation is in the best interest of themselves, not the organization.  
 _The social power seeker_ seeks to influence others in a positive way, and in the interest of the organization. They satisfy their power needs by stearing a team towards a successful outcome. McClelland belives this is the best kind of person for a managerial role. It is important that they are able to satisfy their need for social power, or it may transform into the need for personal power.  
 
-## Maslow's Hierarchy of Needs
+### Maslow's Hierarchy of Needs
 Abraham Maslow  
 
 Needs have precident. Some needs take precedence over others and must be met first. This is called _perpotency_.  
@@ -178,9 +178,132 @@ There are four components to moving between need satisfaction:
 1. _satisfation progression_: As one level of needs is met, the focus moves to the next level of needs.  
 2. _frustration_: Failing to meet a need motivates the individual to try harder.  
 3. _frustration regression_: Repeated failure to meet a need can refocus the individual to their previous level of need, reinforcing that success.  
-4.  _aspiration_: The more needs are met, the more the individual wants to meed more needs.  
+4. _aspiration_: The more needs are met, the more the individual wants to meed more needs.  
 
 ERG Theory is useful because it's three categories of needs are easier to recognize than Maslow's five, and because it presents a clear set of motivations for moving between sets of needs in both directions.  
 
-## Herzberg's Motivator-Hygiene Theory
+### Herzberg's Motivator-Hygiene Theory
+Daniel Herzberg  
+_Motivator-Hygiene Theory_ further reduces Maslow's categories to two: _Motivators_ and _Hygienes_.  
+**Motivators** are anything that leads to personal growth. In the workplace, they are connected to _job content_, what the individual in a given role actually does. Accomplishments and recognition are _satisfiers_ that lead to higher job performance, and higher job performance leads to satisfaction.  
+**Hygienes** Are the factors in our work environment that lead to dissatisfaction. _Dissatisfiers_ reduce motivation and lead to poorer job performance.  
+Hygienes could include low pay, innept management, and a poor work condition. It is important to know that correcting these does not lead to satisfaction, it simply reduces dissatisfaction. Motivators, like satisfying job challenges, responsibility, and recognition, are required to motivate and increase performance. Motivators and hygienes are essentially on two seperate scales.  
 
+### Self-Determination Theory
+**Extrinsic motivation**: Factors outside of the person. These are low order, existance needs like food, shelter, money, safety. The individual performs tasks necessary to survive.  
+**Intrinsic motivation**: Factors inside of the person. These are higher order needs like growth and relatedness. The individual performs tasks because they gain satisfaction from them.  
+
+**STD** finds that high extrinsic rewards can actually reduce intrinsic motivation. By paying someone a great deal to perform tasks that satisfy them, the tasks become less personally satisfying, and more about the extrinsic reward. The implication for management is that skilled employees need intrinsic motivation as well to succeed. This can take the form of new opportunities to maintain stimulation, and challanges that lead to intrisic satisfaction. On the other hand, workers performing low-skilled, inherantly unsatisfying work require high extrinsic reward to maintain motivation.  
+
+1. Understand the content theories of motivation.  
+Content motivation focuses on what motivates people.  
+
+2. Understand the contributions that Murray, McClelland, Maslow, Alderfer, and Herzberg made toward an understanding of human motivation.  
+Murry's Manifest Needs Theory established the idea of primary and secondary needs. McClelland's Learned Needs Theory build off of Murry and focused on three specific needs: achievement, affiliation, and power. Maslow added the very popular concept of a hierarchy of needs, and conceptualized five needs: Physiological and survival, safety and security, social ego and esteem, and self-catualization. Alderfer's ERG Theory reduced these to three categories: existence, relatedness, and growth. He also explained the factors that move individuals between hierarchial levels of needs. Herzberg reduced these further to two categories of needs: motivator and hygiene. He called motivators satisfiers, and hygiene dissatisfiers.  
+
+## 14.3 Process Theories of Motivation
+Describe the process theories of motivation, and compare and contrast the main process theories of motivation: operant conditioning theory, equity theory, goal theory, and expectancy theory.  
+
+Process theories focus on behaviors, and how people are motivated.  
+
+### Operand Conditioning Theory
+The theory is that people learn behaviors by behaving (operating) and responding to the consequences of that behavior. People continue to behave in ways that have positive rewards, and avoid behaving in ways that have negative rewards (punishment).  
+
+#### The Basic Operant Model
+The learning of behaviors has three steps:  
+1. _Stimulus_: Any environmental factor that the person responds to.  
+2. _Response_: The behavior taken in response to the stimulus.  
+3. _Consequence_: The resulting event that influences the likelyhood of the person repeating the behavior in the future.  
+
+<table style="border: 3px solid #111; margin: auto;">
+<thead>
+<tr style="border: 3px solid #111;">
+<th colspan="2">Process Theories of Motivation</th>
+</tr>
+<tr>
+<th colspan="2">General Operant Model: S → R → C</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border: 3px solid #111;">
+<th colspan="2">Ways to Strengthen the S → R Link</th>
+</tr>
+<tr>
+<td style="border: 3px solid #111;">S → R → C+</th><td style="border: 3px solid #111;">Positive Reinforcement</th>
+</tr>
+<tr>
+<td style="border: 3px solid #111;">S → R → C-</th><td style="border: 3px solid #111;">Negative Reinforcement</th>
+</tr>
+<tr>
+<td style="border: 3px solid #111;">S → R → (no C-)</th><td style="border: 3px solid #111;">Avoidance Learning</th>
+</tr>
+<tr style="border: 3px solid #111;">
+<th colspan="2">Ways to Weaken the S → R Link</th>
+</tr>
+<tr>
+<td style="border: 3px solid #111;">S → R → (no C)</th><td style="border: 3px solid #111;">Nonreinforcement</th>
+</tr>
+<tr>
+<td style="border: 3px solid #111;">S → R → C-</th><td style="border: 3px solid #111;">Punishment</th>
+</tr>
+</tbody>
+</table>
+&nbsp;  
+
+**Reinforcement** is the increased likelyhood of the behavior reoccuring, based on the positive consequence.  
+**Extinction** is the decreased likelyhood of the bahavior reoccuring, based on the negative consequence.  
+
+#### Making a Response More Likely
+**Positive reinforcement** is rewarding a behavior to encourage it being repeated. Examples are praise, prizes, promotions.  
+**Negative reinforcement** is taking away something that is negative as a reward for a behavior. Examples are removing criticism, nagging, repeated reminders.  
+**Avoidance learning** is incentivising behavior that avoids a consequence. Examples are avoiding punitive actions like a demotion, job termination, eviction.  
+
+#### Making a Response Less Likely
+**Punishment** is a negative consequence to reduce the likelyhood of a behavior repeating.  
+**Nonreinforcement** is doing nothing, not reinforcing the behavior by not even presenting a consequence. This can be problematic. When a behavior is positive but is not acknowledged, nonreinforcement reduces the likelyhood of the behavior being repeated.  
+
+#### Schedules of Reinforcement
+_Shaping_ is reinforcing new behaviors frequently (possibly every time) when they are being learned. This should not, however, persist too long or it will become expected (_continuous reinformcement_), and when it finally stops the individual will become demotivated through nonreinforcement.  
+There are four **schedules of reinforcement**:  
+_Fixed Ratio_: A set number of repetitions evokes a reinforcement (reward).  
+_Variable Ratio_: A set average number of repetitions evokes a reinforcement.  
+_Fixed Interval_: After a fixed interval of time, an observed positive behavior is reinforced. This could be a different behavior at any given interval, but the time between reinforcement is fixed. It is also possible there is no behavior observed, and so nothing to reinforce.  
+_Variable Interval_: Like fixed interval, but an average interval of time is set. The interval is not fixed, but the average is maintained.  
+
+After the continuous reinforcement of shaping is completed, some kind of variable interval is considered important to maintain positive behaviors. Fixed intervals and ratios are not considered as effective.  
+
+### Equity Theory
+John Stacey Adams  
+
+Motivation is affected by an individuals perception of both whether their outcomes are equal to the effort they put in, and whether their outcomes are equal to other individual's outcomes for the same percieved efforts.  
+In other words, if two people do the same quality of work, and one receives more compensation, the other will be demotivated.  
+
+#### The Basic Equity Model
+_Equity Theory_ has two sets of factors:  
+**Inputs**: are what an individual perceives as efforts put into the organization for which they are a part. This could be hard work, level of performance, time, sacrafice. The value is what the individual perceives it to be.  
+**Outcomes**: are what the individual perceives getting back for their efforts. This could be money, a raise, a promotion, recognition. The value is again what the individual perceives it to be.  
+
+The individual will compare their value of their inputs to their value of their outcomes as a ratio. If the individual perceives that the outcomes are equitable to the inputs, they are satisfied. If they perceive that the outcomes are less than the inputs, they are dissatisfied. They will also compare their ratio to others in the organization. If they feel that others have a better ratio of outcomes to inputs than they do, they may also become dissatisfied.  
+The term **referent others** refers to people an individual will compare their ratio to. These are typically people who perform similar tasks at a similar level as the individual. They are called referent because the individual uses them as a reference for their sense of equity. There are three possible results of these comparisons: _state of equity_, _overreward inequity_, _underreward inequity_.  
+
+Two human tendancies that create a false sence of inequity are the tendancy to overrate one's performance, and the tendancy to overrate other's outcomes. That is, individuals tend to think they are performing at a much higher level than they are, and tend to assume others are being compensated at a higher value than they are.  
+
+#### Perceived Overreward Inequity
+Perceived overreward inequity does not tend to motivate the individual to work harder to achive equity. Typically they are satisfied with the overreward.  
+
+#### Perceived Underreward Inequity
+Perceived underreward inequity causes dissatisfaction and motivates to change the situation.  
+
+#### Reducing Underreward Inequity
+1. Alter inputs of the person: Simply put, don't work so hard.  
+2. Alter outcomes of the person: Work harder and seek an increase in outcomes.  
+3. Alter inputs of the referent other: Encourage the other to put in more inorder to make their (percieved) inputs match their superior outcomes.  
+4. Alter outcomes of the refernt other: Work to reduce the outcomes of the referent other.  
+5. Distort perceptions of inputs or outcomes: Change the perception of the other's inputs or outcomes to create perceived equity.  
+6. Choose a different referent other: Use a different party to compare one's inputs and outcomes to.  
+7. Leave the situation: Quit, transfer, call in sick.  
+
+#### Implications of Equity Theory
+People tend towards perceiving underreward inequity. This is bad for organizations. It is important for organizations and managers to treat individuals fairly. Avoid playing favorites. Some salary transparency can be helpful (publishing the range for a given role, for example). Develop and use methods to measure performance that are as accurate as possible.  
+
+### Goal Theory

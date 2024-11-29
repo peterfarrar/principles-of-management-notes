@@ -305,5 +305,34 @@ Perceived underreward inequity causes dissatisfaction and motivates to change th
 
 #### Implications of Equity Theory
 People tend towards perceiving underreward inequity. This is bad for organizations. It is important for organizations and managers to treat individuals fairly. Avoid playing favorites. Some salary transparency can be helpful (publishing the range for a given role, for example). Develop and use methods to measure performance that are as accurate as possible.  
-
+  
 ### Goal Theory
+Edwin A. Locke  
+
+"...people will perform better if they have difficult, specific, accepted performance goals or objectives."
+
+#### The Basic Goal-Setting Model
+People try to achive goals that they intend to achive. If one intends to accomplish something they will exert more energy to succeed at that goal than if they don't intend to. Example: Studying for the sake of studying vs. studying with the intention of learning the subject or attaining a specific score or rank.  
+Difficult goals drive people to try harder than simple goals. This doesn't guarentee success, but it does likely result in a better outcome than without the added effort.  
+Specific goals are better than vague ones.  
+People must accept the goal. It's one thing to be given a goal (by say a manager), it is another to accept it, and to accept that it is achievable. If a person doesn't accept the goal, or doesn't feel the goal is achievable, they are unlikely to give it the required effort. 
+
+**Goal commitment** measures the degree of dedication to a goal. A person may have multiple goals (major and minor). Major goals have more of the person's commitment than the minor goals.  
+When people are included in the goal-setting process, they are more likely to have a sense of ownership and be more committed to the goal. Goals set externally ten do result in less commitment and acceptance.  
+
+To evoke maximum effort, goals should be difficult but obtainable, specific, accepted, and committed to. It is also important to remove constraints that could derail the effort (such as other people prioritizing their own requests over the person, or inadequate resources). If a goal can not be obtained it can demotivate future efforts.  
+
+_Management by objectives_ is a management style based on goal-setting theory.  
+
+* Some drawbacks to goal-setting theory:  
+* Neglecting goals in one area for another.  
+* Setting easy goals to create a more positive impression of performance.  
+* Unhealthy competition between coworkers.  
+* Sabotage.  
+* Used unethically by management to create a negative impression of an employee.
+* Focuses on quantitative performance rather than qualitative performance.  
+
+### Expectancy Theory
+
+
+

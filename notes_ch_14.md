@@ -333,6 +333,44 @@ _Management by objectives_ is a management style based on goal-setting theory.
 * Focuses on quantitative performance rather than qualitative performance.  
 
 ### Expectancy Theory
+"Expectancy theory posits that we will exert much effort to perform at high levels so that we can obtain valued outcomes."
 
+Two issues of expectancy theory are:
+1. When given multiple alternatives, which one will be selected?  
+2. Having chosen an alternative, how motivated will one be to pursue it?  
 
+Or the shortversion: Expectancy Theory focuses on _direction_ and _intensity_.  
+The more a direction appears to lead to a positive and valued outcome, the more appealing it is.  
+
+Expectancy Theory assumes people are rational and hedonistic, and will use logic to choose the alternative that will likely result in the most positives and fewest negatives.  
+
+#### The Basic Expectancy Model
+There are three major components of expectancy theory: _effort-performance expectancy_, _performance-outcome expectancy_, and _valences_.
+
+**Effort-performance expectancy (E1)**: E1 measures a persons perception of how the effort they exert will lead to a higher level of performance. A weak E1 means the person doesn't believe that a high level of effort will result in their performancing at a high level. A strong E1 means a person belives that they can perform at a high level if they exert a high amount of effort.  
+**Performance-outcome expectancy (E2)**: E2 measures a persons perception of how their performance will effect their outcomes. A weak E2 means that the person doesn't believe that their efforts will have much influence on their outcome one way or the other. A strong E2 means the person believes that a high level of performance will positively influence their outcomes.  
+**Valences** are the degree to which one perceives an outcome as desirable, neutral or undesirable. Outcomes can be extrinsic (decided by others) or intrinsic (personally rewarding).  
+
+So, expectancy theory predicts that individuals will exert the amount of effort required to perform at a neccessary level to achive the outcomes with the most positive valences. This requires a strong E1, a strong E2, and a sufficiently positive outcome valence.  
+
+#### Implications of Expectancy Theory
+For employees to be motivated to perform their roles at a high level they need to believe that their efforts will lead to a higher level of performance (E1), and that that higher level of performance will lead to an outcome with a positive valence (E2). If they don't believe their high level of performance will be rewarded with a positive outcome, they will not be motivated to exert the effort required to perform at a high level. This is bad for the organization.  
+
+Organizations must activley ensure there is a perception that outcomes are contingent on performance, in order to maximize employee motivation.  
+
+**Self-efficacy** is the personal belief in ones ability to perform a future task successfully. The higher the self-efficacy of the person, the more effort they are likely to commit to their performance. Strong self-efficacy results in a strong E1.  
+Weak E1s can result from insufficient resources, both external (equipment, labor) and in ternal (lack of skills and training), or poor role perception (lacking a clear understanding of how to perform their jobs).  
+
+Inacurate role perceptions are often the result of poor employee rating methods, when the rating doesn't correlate with the performance. This can happen for many reasons: Human bias, inappropriate means of measurment, poor management.  And this can result in employees that don't believe their efforts will lead to a high performance rating. Expectancy theory emphisises the importance of accurate performance measurements.  
+
+Seven ways organizations can influence employees effort and performance:
+1. Strengthening the effort-performance expectancy (E1): Select employees that have the skills, provide training, clarify role, demonstrate what success looks like.  
+2. Strengthening the performance-outcome expectancy (E2): Specify policies that acknowledge desired behaviors will lead to desired outcomes for the employee, and that undesired behaviors will lead to neutral or negative outcomes.  re-enforce these often, as employees must believe this for it to be effective.  
+3. Systematically evaluate which outcomes an employees values. Recognize that individuals can have different values, and that those values change over time.  
+4. Ensure effort can lead to performance. Clarify what appropriate actions are and provide necessary training.  
+5. Ensure appropriate outcomes for wmployees. Use a reward schedule (extrinsic) and design the role appropriately for the individual (intrinsic).  
+6. Examine the level of outcomes for the employee. Insure the outcomes are equitable.  
+7. Measure performance accurately.  
+
+#### Expectancy Theory: An Integrative Theory of Motivation
 

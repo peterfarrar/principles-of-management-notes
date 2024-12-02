@@ -1,3 +1,10 @@
+---
+title: "Work Motivation for Performance"
+author: "@OpenStax"
+dates:
+  published: "1/1/2019"
+description: "Chapter 14: Work Motivation for Performance"
+---
 # Work Motivation for Performance
 **After reading this chapter, you should be able to answer these questions:**  
 1. Define motivation, and distinguish direction and intensity of motivation.
@@ -251,7 +258,7 @@ The learning of behaviors has three steps:
 &nbsp;  
 
 **Reinforcement** is the increased likelyhood of the behavior reoccuring, based on the positive consequence.  
-**Extinction** is the decreased likelyhood of the bahavior reoccuring, based on the negative consequence.  
+**Extinction** is the decreased likelyhood of the behavior reoccuring, based on the negative consequence.  
 
 #### Making a Response More Likely
 **Positive reinforcement** is rewarding a behavior to encourage it being repeated. Examples are praise, prizes, promotions.  
@@ -386,4 +393,25 @@ Draws from (or overlaps):
 ## 14.4 Recent Research on Motivational Theories
 Describe the modern advancements in the study of human motivation.  
 
+### Content Theories
+Needs theories: Recognition, advancement, opportunities to learn.  
+Missing measures of employee performance, relying on what employees say vs. what they do.  
 
+### Operant Conditioning Theory
+Limited research into reward systems. Focus has been on extinction and punishment. Punishment should be used sparingly and only after extinction has failed.  
+
+### Equity Theory
+Criticized for dificulty defining inputs and outcomes, as these vary from person to person and are hard to know. Performance and Pay are considered strong inputs and outputs.  
+_Organizational justice_ consists of _distributive justice_ (are rewards and punishments distributed fairly?) and _procedural justice_ (was the decision making process fair?).  
+
+### Goal Theory
+Goals must be accepted. Difficult, specific goals generate better performance than easy and/or vague goals.  
+Conflicting goals may cause performance for one to suffer in exchange for the performance on the other.  
+
+### Expectancy Theory
+Valence may be less important than believed. Employees may set personal goals for themselves that also drive performance.  
+
+Motivation theory is evolving, as is the workplace, and the changing workforce. All of these will lead to new methods and understandings of motivation.  
+
+1. Understand the modern approaches to motivation theory  
+2. 

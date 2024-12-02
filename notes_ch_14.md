@@ -373,4 +373,17 @@ Seven ways organizations can influence employees effort and performance:
 7. Measure performance accurately.  
 
 #### Expectancy Theory: An Integrative Theory of Motivation
+Draws from (or overlaps):
+1. Needs theories
+2. Operant conditioning theories
+3. Equity theories
+4. Goal theory
+
+1. Understand the process theories of motivation: operant conditioning, equity, goal, and expectancy theories.  
+
+2. Describe the managerial factors managers must consider when applying motivational approaches.  
+
+## 14.4 Recent Research on Motivational Theories
+Describe the modern advancements in the study of human motivation.  
+
 

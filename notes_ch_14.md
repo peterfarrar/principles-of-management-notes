@@ -200,7 +200,7 @@ Hygienes could include low pay, innept management, and a poor work condition. It
 **Extrinsic motivation**: Factors outside of the person. These are low order, existance needs like food, shelter, money, safety. The individual performs tasks necessary to survive.  
 **Intrinsic motivation**: Factors inside of the person. These are higher order needs like growth and relatedness. The individual performs tasks because they gain satisfaction from them.  
 
-**STD** finds that high extrinsic rewards can actually reduce intrinsic motivation. By paying someone a great deal to perform tasks that satisfy them, the tasks become less personally satisfying, and more about the extrinsic reward. The implication for management is that skilled employees need intrinsic motivation as well to succeed. This can take the form of new opportunities to maintain stimulation, and challanges that lead to intrisic satisfaction. On the other hand, workers performing low-skilled, inherantly unsatisfying work require high extrinsic reward to maintain motivation.  
+**SDT** finds that high extrinsic rewards can actually reduce intrinsic motivation. By paying someone a great deal to perform tasks that satisfy them, the tasks become less personally satisfying, and more about the extrinsic reward. The implication for management is that skilled employees need intrinsic motivation as well to succeed. This can take the form of new opportunities to maintain stimulation, and challanges that lead to intrisic satisfaction. On the other hand, workers performing low-skilled, inherantly unsatisfying work require high extrinsic reward to maintain motivation.  
 
 1. Understand the content theories of motivation.  
 Content motivation focuses on what motivates people.  

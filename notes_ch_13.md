@@ -31,8 +31,8 @@ A leader influences the people needed to fulfill the goals set out by the manage
 A manager is appointed to the role.  
 Leaders are also appointed, but based on their ability to get buy-in. One could say, circumstances reveal an individual as a leader.  
 
-Intrinsic: Managers power comes from their title and the power the organization gives that title. The manager has power because their reports are subordinate to them.  
-Extrinsic: Leaders power comes more from their relationships and their perception. How people view a leader is how he is able to lead. The leader has power because people want to give it to them.  
+Extrinsic: Managers power comes from their title and the power the organization gives that title. The manager has power because their reports are subordinate to them.  
+Intrinsic: Leaders power comes more from their relationships and their perception. How people view a leader is how he is able to lead. The leader has power because people want to give it to them.  
 
 Effective leadership requires managment ability. Effective management requires leadership.  
 

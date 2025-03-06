@@ -188,4 +188,60 @@ _Disadvantage_: Slower and more expensive, requires retention of key team member
 ## 18.5 Management Entrepreneurship Skills for Technology and Innovation
 How and why do entrepreneurs need to develop MTI skills?  
 
+A **value proposition** should answer these two questions:  
+1. How will the organzation generate revenue from the product or service?  
+2. How will the organization position itself in the marketplace?  
+
+_Advantages_: Entrepreneurs are dedicated to the organization. The organization is lean and can advance incrementally. Small ventures can be agile (able to adapt quickly).  
+_Disadvantage_: New businesses typically have limited funds and other resources with which to operate.  
+
+>_Concept Check_
+> 1. In the beginning, Acer was very entrepreneurial. However, the firm realized that if it was to continue to grow, it needed to develop some structures and processes. What adjustments did Acer make to become a global firm?
+>
+> &nbsp;
+
+## 18.6 Skills Needed for MTI  
+No matter what method is used, what skills do you need to successfully manage technology and innovation?  
+
+Two necessary organizational skills for succesful MTI are:  
+**Learning and Knowldege management.**  
+**Forecast and Analysis of Future Trends.**  
+Individual skills are **leadership** (and **followship**), and **creative thinking**.  
+
+The _learning and knowledge_ process builds capabilities by collecting data, analyzing that data, converting it into information, and communicating that information. Learning from that information creates tacit knowledge, and in codifying that knowlege, it becomes explicit knowledge that can give an organization a competitive advantage. This is sometimes called **organizational leraning**. To accomplish this the organization must bring together the right people and resources. Note that sometimes it is dificult or simply not possible to codify tacit knowledge. In those cases the knowledge remains with the individual or individuals.  
+
+An effective _forecasting process_ leads to superior strategies that add value to the organization. This is accomplished by scanning the competitive environment to identify opportunities, and understanding the associated risks. Forecasting methods are imperfect and produce uncertain outcomes. Even statistical analysis is uncertain as it relys on numbers that are often the result of other forecasts, or can be impacted by unanticipated changes in the environment. The outputs of the learning and knowledge process can also provide inputs for the forecasting process.  
+
+
+#### Followship
+As projects progress the roles of the team members shift. A leader early in a project may become a follwer later, and vice versa. Good followship is as or more important than good leadership, as a leader without a follower isn't leading anything.  
+Qualities of a good follower:  
+1. Truthfulness. Tell the leader what they need to hear.  
+2. Supportiveness. Self explanitory. Support the leader. I.e. don't undermine them.  
+3. Share knowledge and experience. Provide input based on personal experience and know how.  
+4. Provide solutions. Take initiative.  
+5. Provide information. Leaders may be removed from the situation. Share honest truth about the state of the project.  
+
+>_Concept Check_
+>1. What is organizational learning?
+>
+>2. What are the differences between leadership and followship?
+>
+>3. What forecasting techniques are used in the management of technology and innovation?
+>
+> &nbsp;
+
+## 18.7 Managing Now for Future Technology and Innovation
+How do you look into the future to keep pace?  
+
+Scan the external environment for changes.  
+
+1. Where are we now?
+2. Where do we want to be?
+3. What do we need to move from here to there?  
+
+>_Concept Check_
+>1. How do you keep up with a constantly evolving environment of technology and innovation?
+>
+> &nbsp;
 
